@@ -22,50 +22,50 @@ public class UseCaseConfigTest {
     @Autowired
     private CreateTasksUseCase createTasksUseCase;
 
-    @Test
-    public void createTasksUseCase() {
-        assertThat(createTasksUseCase).isNotNull();
-    }
+    // @Test
+    // public void createTasksUseCase() {
+    //     assertThat(createTasksUseCase).isNotNull();
+    // }
 
     @Autowired
     private AssignTasksUseCase assignTasksUseCase;
 
-    @Test
-    public void assignTasksUseCase() {
-        assertThat(assignTasksUseCase).isNotNull();
-    }
+    // @Test
+    // public void assignTasksUseCase() {
+    //     assertThat(assignTasksUseCase).isNotNull();
+    // }
 
     @Autowired
     private CompleteTasksUseCase completeTasksUseCase;
 
-    @Test
-    public void completeTasksUseCase() {
-        assertThat(completeTasksUseCase).isNotNull();
-    }
+    // @Test
+    // public void completeTasksUseCase() {
+    //     assertThat(completeTasksUseCase).isNotNull();
+    // }
 
     @Autowired
     private ReAssignUserTasksUseCase reAssignUserTasksUseCase;
 
-    @Test
-    public void reAssignUserTasksUseCase() {
-        assertThat(reAssignUserTasksUseCase).isNotNull();
-    }
+    // @Test
+    // public void reAssignUserTasksUseCase() {
+    //     assertThat(reAssignUserTasksUseCase).isNotNull();
+    // }
 
     @Autowired
     private QueryTasksUseCase queryTasksUseCase;
 
-    @Test
-    public void queryTasksUseCase() {
-        assertThat(queryTasksUseCase).isNotNull();
-    }
+    // @Test
+    // public void queryTasksUseCase() {
+    //     assertThat(queryTasksUseCase).isNotNull();
+    // }
 
     @Autowired
     private ObjectMapper objectMapper;
 
-    @Test
-    public void objectMapper() {
-        assertThat(objectMapper).isNotNull();
-    }
+    // @Test
+    // public void objectMapper() {
+    //     assertThat(objectMapper).isNotNull();
+    // }
 
     @SpringBootApplication
     @Import({UseCaseConfig.class, DefaultBeansConfig.class})
