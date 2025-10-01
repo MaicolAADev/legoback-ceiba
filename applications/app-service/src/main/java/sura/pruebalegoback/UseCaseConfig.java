@@ -1,3 +1,4 @@
+
 package sura.pruebalegoback;
 
 import org.reactivecommons.utils.ObjectMapper;
@@ -11,6 +12,8 @@ import sura.pruebalegoback.domain.user.gateway.UserGateway;
 import sura.pruebalegoback.domain.user.gateway.UserScoreGateway;
 import sura.pruebalegoback.usecase.patient.PatientUseCase;
 import sura.pruebalegoback.usecase.todo.*;
+import sura.pruebalegoback.domain.weather.gateway.WeatherGateway;
+import sura.pruebalegoback.usecase.weather.WeatherUseCase;
 
 @Configuration
 public class UseCaseConfig {
@@ -21,12 +24,14 @@ public class UseCaseConfig {
     }
 
     @Bean
-    public AssignTasksUseCase assignTasksUseCase(TaskToDoRepository tasks, UserGateway users, EventsGateway eventsGateway) {
+    public AssignTasksUseCase assignTasksUseCase(TaskToDoRepository tasks, UserGateway users,
+            EventsGateway eventsGateway) {
         return new AssignTasksUseCase(tasks, users, eventsGateway);
     }
 
     @Bean
-    public CompleteTasksUseCase completeTasksUseCase(TaskToDoRepository tasks, EventsGateway eventsGateway, UserScoreGateway userScoreGateway) {
+    public CompleteTasksUseCase completeTasksUseCase(TaskToDoRepository tasks, EventsGateway eventsGateway,
+            UserScoreGateway userScoreGateway) {
         return new CompleteTasksUseCase(tasks, eventsGateway, userScoreGateway);
     }
 
@@ -43,6 +48,11 @@ public class UseCaseConfig {
     @Bean
     public PatientUseCase patientUseCase(PatientRepository patientRepository) {
         return new PatientUseCase(patientRepository);
+    }
+
+    @Bean
+    public WeatherUseCase weatherUseCase(WeatherGateway weatherGateway) {
+        return new WeatherUseCase(weatherGateway);
     }
 
     @Bean

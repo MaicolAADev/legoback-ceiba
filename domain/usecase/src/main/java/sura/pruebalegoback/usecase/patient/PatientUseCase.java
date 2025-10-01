@@ -7,6 +7,9 @@ import sura.pruebalegoback.domain.common.ex.BusinessException;
 import sura.pruebalegoback.domain.patient.Patient;
 import sura.pruebalegoback.domain.patient.gateway.PatientRepository;
 
+import reactor.core.scheduler.Schedulers;
+import java.util.function.Supplier;
+
 @RequiredArgsConstructor
 public class PatientUseCase {
 
@@ -45,5 +48,14 @@ public class PatientUseCase {
             .createdAt(patient.getId() == null ? java.time.LocalDateTime.now() : patient.getCreatedAt())
             .updatedAt(java.time.LocalDateTime.now())
             .build();
+    }
+
+    public Flux<byte[]> exportPatientsToExcel(Supplier<byte[]> excelGenerator) {
+        return getAllPatients()
+            .collectList()
+            .publishOn(Schedulers.boundedElastic())
+            .map(patients -> excelGenerator.get())
+            .flatMapMany(bytes -> Flux.just(bytes));
+
     }
 }
