@@ -1,0 +1,128 @@
+{
+  "info": {
+    "_postman_id": "b1e7e7c0-1234-4a1a-9b1a-collection-id",
+    "name": "pruebalegoback API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "description": "Colección de endpoints REST de pruebalegoback. Variable: {{baseUrl}}"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8080"
+    }
+  ],
+  "item": [
+    {
+      "name": "Pacientes",
+      "item": [
+        {
+          "name": "Crear paciente",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"\",\n  \"name\": \"\",\n  \"otherField\": \"\"\n}"
+            },
+            "url": { "raw": "{{baseUrl}}/patient", "host": [ "{{baseUrl}}" ], "path": [ "patient" ] }
+          }
+        },
+        {
+          "name": "Actualizar paciente",
+          "request": {
+            "method": "PUT",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"\",\n  \"name\": \"\",\n  \"otherField\": \"\"\n}"
+            },
+            "url": { "raw": "{{baseUrl}}/patient", "host": [ "{{baseUrl}}" ], "path": [ "patient" ] }
+          }
+        },
+        {
+          "name": "Consultar paciente por ID",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/patient/:id", "host": [ "{{baseUrl}}" ], "path": [ "patient", ":id" ] },
+            "description": "Reemplaza :id por el id del paciente"
+          }
+        },
+        {
+          "name": "Consultar todos los pacientes",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/patient", "host": [ "{{baseUrl}}" ], "path": [ "patient" ] }
+          }
+        },
+        {
+          "name": "Eliminar paciente por ID",
+          "request": {
+            "method": "DELETE",
+            "url": { "raw": "{{baseUrl}}/patient/:id", "host": [ "{{baseUrl}}" ], "path": [ "patient", ":id" ] },
+            "description": "Reemplaza :id por el id del paciente"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tareas",
+      "item": [
+        {
+          "name": "Crear tarea",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"\",\n  \"description\": \"\"\n}"
+            },
+            "url": { "raw": "{{baseUrl}}/task", "host": [ "{{baseUrl}}" ], "path": [ "task" ] }
+          }
+        },
+        {
+          "name": "Consultar tarea por ID",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/task/:id", "host": [ "{{baseUrl}}" ], "path": [ "task", ":id" ] },
+            "description": "Reemplaza :id por el id de la tarea"
+          }
+        },
+        {
+          "name": "Consultar todas las tareas",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/task", "host": [ "{{baseUrl}}" ], "path": [ "task" ] }
+          }
+        },
+        {
+          "name": "Completar tarea",
+          "request": {
+            "method": "POST",
+            "url": { "raw": "{{baseUrl}}/task/:id/complete", "host": [ "{{baseUrl}}" ], "path": [ "task", ":id", "complete" ] },
+            "description": "Reemplaza :id por el id de la tarea"
+          }
+        },
+        {
+          "name": "Asignar tarea",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"taskId\": \"\",\n  \"userId\": \"\"\n}"
+            },
+            "url": { "raw": "{{baseUrl}}/task/assign", "host": [ "{{baseUrl}}" ], "path": [ "task", "assign" ] }
+          }
+        }
+      ]
+    }
+  ]
+}

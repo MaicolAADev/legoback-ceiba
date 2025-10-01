@@ -1,0 +1,20 @@
+plugins {
+    id 'java-library'
+}
+
+group = 'sura.pruebalegoback.infraestructure.drivenadapters.r2dbc'
+version = '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation project(':domain-model')
+    implementation 'org.springframework.boot:spring-boot-starter-data-r2dbc:3.3.1'
+    implementation 'io.r2dbc:r2dbc-postgresql:0.8.13.RELEASE'
+    implementation 'org.projectlombok:lombok:1.18.30'
+    annotationProcessor 'org.projectlombok:lombok:1.18.30'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test:3.3.1'
+    testImplementation 'io.projectreactor:reactor-test:3.6.4'
+}
