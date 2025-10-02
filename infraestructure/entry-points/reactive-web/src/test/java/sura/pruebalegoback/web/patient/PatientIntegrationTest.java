@@ -49,24 +49,6 @@ class PatientIntegrationTest {
                 .build();
     }
 
-    // @Test
-    // void testCreatePatient() {
-    //     when(patientUseCase.createPatient(any())).thenReturn(Mono.just(patient));
-    //     webTestClient.post().uri("/patient")
-    //             .bodyValue(patient)
-    //             .exchange()
-    //             .expectStatus().isOk()
-    //             .expectBody(Patient.class)
-    //             .consumeWith(response -> {
-    //                 Patient responsePatient = response.getResponseBody();
-    //                 assert responsePatient != null;
-    //                 assert responsePatient.getFirstName().equals(patient.getFirstName());
-    //                 assert responsePatient.getLastName().equals(patient.getLastName());
-    //                 assert responsePatient.getEmail().equals(patient.getEmail());
-    //                 assert responsePatient.getPhone().equals(patient.getPhone());
-    //             });
-    // }
-
     @Test
     void testUpdatePatient() {
         when(patientUseCase.updatePatient(any())).thenReturn(Mono.just(patient));
