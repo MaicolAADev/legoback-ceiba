@@ -42,18 +42,11 @@ public class PatientQueryService {
 
     @GetMapping(value = "/export/excel", produces = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
     public Mono<ResponseEntity<Flux<DataBuffer>>> exportToExcel() {
-        Supplier<byte[]> excelSupplier = () -> {
-            try {
-                return patientExcelExport.buildExcel();
-            } catch (Exception e) {
-                log.error("Error generando Excel", e);
-                throw new RuntimeException("Error generando Excel", e);
-            }
-        };
-        Flux<DataBuffer> excelFlux = useCase.exportPatientsToExcel(excelSupplier)
-                .map(bytes -> new DefaultDataBufferFactory().wrap(bytes));
-        return Mono.just(ResponseEntity.ok()
-                .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=pacientes.xlsx")
-                .body(excelFlux));
+        return patientExcelExport.buildExcel()
+                .map(bytes -> new DefaultDataBufferFactory().wrap(bytes))
+                .map(dataBuffer -> ResponseEntity.ok()
+                        .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=pacientes.xlsx")
+                        .body(Flux.just(dataBuffer))
+                );
     }
 }

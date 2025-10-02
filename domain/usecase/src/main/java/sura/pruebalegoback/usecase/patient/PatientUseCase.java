@@ -24,8 +24,9 @@ public class PatientUseCase {
     }
 
     public Mono<Patient> updatePatient(Patient patient) {
-        return patientRepository.update(setDates(patient))
-            .switchIfEmpty(Mono.error(new BusinessException(BusinessException.Type.PATIENT_NOT_FOUND)));
+        return patientRepository.findById(patient.getId())
+            .switchIfEmpty(Mono.error(new BusinessException(BusinessException.Type.PATIENT_NOT_FOUND)))
+            .flatMap(existingPatient -> patientRepository.update(setDates(patient, existingPatient.getCreatedAt())));
     }
 
     public Mono<Patient> getPatientById(Long id) {
@@ -43,9 +44,13 @@ public class PatientUseCase {
             .flatMap(patient -> patientRepository.deleteById(id));
     }
 
-    private Patient setDates(Patient patient) {  
+    private Patient setDates(Patient patient) {
+        return setDates(patient, patient.getId() == null ? java.time.LocalDateTime.now() : patient.getCreatedAt());
+    }
+
+    private Patient setDates(Patient patient, java.time.LocalDateTime createdAt) {
         return patient.toBuilder()
-            .createdAt(patient.getId() == null ? java.time.LocalDateTime.now() : patient.getCreatedAt())
+            .createdAt(createdAt)
             .updatedAt(java.time.LocalDateTime.now())
             .build();
     }

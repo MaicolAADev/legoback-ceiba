@@ -36,3 +36,4 @@ buildFiles.each { File buildFile ->
 }
 
 include ':infraestructure:driven-adapters:r2dbc'
+include ':infraestructure:entry-points:subs-events'

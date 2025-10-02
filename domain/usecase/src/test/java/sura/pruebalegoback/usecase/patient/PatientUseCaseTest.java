@@ -67,16 +67,17 @@ class PatientUseCaseTest {
 
     @Test
     void updatePatient_success() {
-        when(patientRepository.update(any())).thenReturn(Mono.just(patient));
-        StepVerifier.create(patientUseCase.updatePatient(patient))
-                .expectNext(patient)
-                .verifyComplete();
-        verify(patientRepository).update(any());
+    when(patientRepository.findById(patient.getId())).thenReturn(Mono.just(patient));
+    when(patientRepository.update(any())).thenReturn(Mono.just(patient));
+    StepVerifier.create(patientUseCase.updatePatient(patient))
+        .expectNext(patient)
+        .verifyComplete();
+    verify(patientRepository).update(any());
     }
 
     @Test
     void updatePatient_notFound() {
-        when(patientRepository.update(any())).thenReturn(Mono.empty());
+        when(patientRepository.findById(patient.getId())).thenReturn(Mono.empty());
         StepVerifier.create(patientUseCase.updatePatient(patient))
                 .expectErrorSatisfies(e -> {
                     assertTrue(e instanceof BusinessException);

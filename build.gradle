@@ -6,9 +6,9 @@ buildscript {
         lombokVersion          = '1.18.30'
         reactorVersion         = '2023.0.8'
         junitVersion           = '5.10.0'
-        asyncCommonsVersion    = '4.1.4'
-        reactorRabbitmqVersion = '1.5.6'
-        micrometerVersion      = '1.10.7'
+        asyncCommonsVersion    = '3.0.6'
+        reactorRabbitmqVersion = '1.5.6' 
+        micrometerVersion      = '1.12.0'
     }
     repositories {
         mavenCentral()
@@ -22,8 +22,24 @@ buildscript {
 
 plugins {
     id "jacoco"
+    id "org.sonarqube" version "6.3.1.5724"
+    id "io.spring.dependency-management" version "1.1.5" 
 }
 
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
+
+sonarqube {
+    properties {
+        property "sonar.projectKey", "adn_adn-reto-gestionar-pacientes-backend-maicol.arroyave_6aa60143-c098-4b2d-8e43-87ab0e6bcc08"
+        property "sonar.projectName", "ADN Reto gestionar pacientes-Backend-maicol.arroyave"
+        property "sonar.host.url", "http://localhost:2000"
+        property "sonar.token", "sqp_f298b719de4c3ed8fdc9bf987517eb80c58d630a"
+    }
+}
 apply plugin: 'project-report'
 
 htmlDependencyReport {
@@ -31,4 +47,3 @@ htmlDependencyReport {
 }
 
 apply from: './main.gradle'
-

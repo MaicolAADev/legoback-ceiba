@@ -1,6 +1,8 @@
 package sura.pruebalegoback.web.patient;
 
 import org.springframework.stereotype.Component;
+
+import reactor.core.publisher.Mono;
 import sura.pruebalegoback.domain.patient.Patient;
 import sura.pruebalegoback.usecase.patient.PatientUseCase;
 import sura.pruebalegoback.web.services.ExcelExportService;
@@ -19,7 +21,7 @@ public class PatientExcelExport {
 		this.excelExportService = excelExportService;
 	}
 
-	public byte[] buildExcel() {
+	public Mono<byte[]> buildExcel() {
 		List<String> columns = List.of("ID", "Nombre", "Apellido", "Fecha Nacimiento", "Sexo", "Dirección", "Teléfono", "Email", "Creado", "Actualizado");
 		Function<Patient, List<Object>> rowMapper = p -> List.of(
 				p.getId() != null ? p.getId() : 0,
@@ -33,7 +35,8 @@ public class PatientExcelExport {
 				p.getCreatedAt() != null ? p.getCreatedAt().toString() : "",
 				p.getUpdatedAt() != null ? p.getUpdatedAt().toString() : ""
 		);
-		List<Patient> patients = useCase.getAllPatients().collectList().block();
-		return excelExportService.generateExcel(patients, columns, rowMapper, "Pacientes");
+		return useCase.getAllPatients()
+			.collectList()
+			.map(patients -> excelExportService.generateExcel(patients, columns, rowMapper, "Pacientes"));
 	}
 }

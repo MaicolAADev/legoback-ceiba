@@ -3,6 +3,11 @@ weather:
     url: "https://api.open-meteo.com/v1/gfs?latitude=37.7749&longitude=-122.4194&hourly=temperature_2m,precipitation,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&current=temperature_2m,precipitation&forecast_days=3&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch&timezone=America/Los_Angeles"
 
 spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: admin
+    password: admin
   application:
     name: pruebalegoback
   r2dbc:
