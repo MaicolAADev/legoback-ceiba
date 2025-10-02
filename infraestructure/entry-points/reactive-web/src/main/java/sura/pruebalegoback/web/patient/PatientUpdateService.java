@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Mono;
 import sura.pruebalegoback.domain.patient.Patient;
 import sura.pruebalegoback.usecase.patient.PatientUseCase;
+import sura.pruebalegoback.web.ErrorHandler;
+
 
 @RestController
 @RequiredArgsConstructor
@@ -17,6 +19,7 @@ public class PatientUpdateService {
 
     @PutMapping(consumes = MediaType.APPLICATION_JSON_VALUE, path = "/patient", produces = MediaType.APPLICATION_JSON_VALUE)
     public Mono<Patient> update(@RequestBody Patient patient) {
-        return useCase.updatePatient(patient);
+        return useCase.updatePatient(patient)
+            .onErrorResume(ErrorHandler::handle);
     }
 }

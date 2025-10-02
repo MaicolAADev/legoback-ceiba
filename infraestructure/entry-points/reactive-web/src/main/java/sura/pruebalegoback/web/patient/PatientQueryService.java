@@ -12,8 +12,7 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.core.io.buffer.DataBuffer;
 import org.springframework.core.io.buffer.DefaultDataBufferFactory;
-
-import java.util.function.Supplier;
+import sura.pruebalegoback.web.ErrorHandler;
 
 @RestController
 @RequestMapping(value = "/patient", produces = MediaType.APPLICATION_JSON_VALUE)
@@ -27,7 +26,8 @@ public class PatientQueryService {
 
     @GetMapping(path = "/{id}")
     public Mono<Patient> getById(@PathVariable("id") Long id) {
-        return useCase.getPatientById(id);
+        return useCase.getPatientById(id)
+                .onErrorResume(ErrorHandler::handle);
     }
 
     @GetMapping
@@ -37,7 +37,8 @@ public class PatientQueryService {
 
     @DeleteMapping(path = "/{id}")
     public Mono<Void> deleteById(@PathVariable("id") Long id) {
-        return useCase.deletePatientById(id);
+        return useCase.deletePatientById(id)
+                .onErrorResume(ErrorHandler::handle);
     }
 
     @GetMapping(value = "/export/excel", produces = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
@@ -46,7 +47,6 @@ public class PatientQueryService {
                 .map(bytes -> new DefaultDataBufferFactory().wrap(bytes))
                 .map(dataBuffer -> ResponseEntity.ok()
                         .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=pacientes.xlsx")
-                        .body(Flux.just(dataBuffer))
-                );
+                        .body(Flux.just(dataBuffer)));
     }
 }

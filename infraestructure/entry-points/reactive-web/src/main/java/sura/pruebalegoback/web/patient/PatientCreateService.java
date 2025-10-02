@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Mono;
 import sura.pruebalegoback.domain.patient.Patient;
+import sura.pruebalegoback.domain.common.ex.BusinessException;
+import sura.pruebalegoback.web.ErrorHandler;
 import sura.pruebalegoback.domain.patient.event.PatientCreatedEvent;
 import sura.pruebalegoback.reactive.PatientEventPublisher;
 import sura.pruebalegoback.usecase.patient.PatientUseCase;
@@ -24,6 +26,7 @@ public class PatientCreateService {
             .doOnSuccess(savedPatient -> {
                 patientEventPublisher.publish(PatientCreatedEvent.builder().patient(savedPatient).build())
                     .subscribe();
-            });
+                })
+                .onErrorResume(ErrorHandler::handle);
     }
 }
