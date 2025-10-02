@@ -6,6 +6,7 @@ dependencies {
     implementation("org.springframework:spring-context") 
     implementation "io.projectreactor.rabbitmq:reactor-rabbitmq:${reactorRabbitmqVersion}"
     implementation "io.micrometer:micrometer-core:${micrometerVersion}"
+    implementation "jakarta.annotation:jakarta.annotation-api:2.1.1"
 }
 
 tasks.named('compileTestJava') {
@@ -18,5 +19,9 @@ tasks.named('test') {
 
 tasks.named('jacocoTestReport') {
     dependsOn ':entry-points-subs-events:test'
+}
+tasks.named('jar') {
+    dependsOn tasks.named('compileJava')
+    dependsOn tasks.named('processResources')
 }
 

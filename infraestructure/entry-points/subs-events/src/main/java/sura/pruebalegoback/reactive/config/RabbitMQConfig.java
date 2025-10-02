@@ -2,7 +2,7 @@ package sura.pruebalegoback.reactive.config;
 
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
-import io.projectreactor.rabbitmq.*;
+import reactor.rabbitmq.*;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -22,8 +22,8 @@ public class RabbitMQConfig {
 	@Value("${spring.rabbitmq.password:admin}")
 	private String password;
 
-	@Bean
-	public ConnectionFactory connectionFactory() {
+	@Bean(name = "rabbitConnectionFactory")
+	public ConnectionFactory rabbitConnectionFactory() {
 		ConnectionFactory factory = new ConnectionFactory();
 		factory.setHost(host);
 		factory.setPort(port);
@@ -34,8 +34,8 @@ public class RabbitMQConfig {
 	}
 
 	@Bean
-	public Mono<Connection> connectionMono(ConnectionFactory connectionFactory) {
-		return Mono.fromCallable(() -> connectionFactory.newConnection("reactor-rabbit"));
+	public Mono<Connection> connectionMono(ConnectionFactory rabbitConnectionFactory) {
+		return Mono.fromCallable(() -> rabbitConnectionFactory.newConnection("reactor-rabbit"));
 	}
 
 	@Bean

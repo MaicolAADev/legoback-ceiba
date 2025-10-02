@@ -22,7 +22,6 @@ class WeatherGatewayImplTest {
         WeatherGatewayImpl gateway = new WeatherGatewayImpl(builder, "badurl");
         Mono<WeatherResponse> mono = gateway.getWeather();
         assertNotNull(mono);
-        // No se puede mockear la cadena, pero se puede verificar que el Mono propaga error al bloquear
         try {
             mono.block();
             fail("Se esperaba excepción");

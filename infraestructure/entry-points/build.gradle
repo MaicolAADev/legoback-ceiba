@@ -1,0 +1,3 @@
+tasks.named('jar').configure {
+    enabled = false
+}

@@ -6,7 +6,7 @@ buildscript {
         lombokVersion          = '1.18.30'
         reactorVersion         = '2023.0.8'
         junitVersion           = '5.10.0'
-        asyncCommonsVersion    = '3.0.6'
+        asyncCommonsVersion    = '4.1.4'
         reactorRabbitmqVersion = '1.5.6' 
         micrometerVersion      = '1.12.0'
     }
