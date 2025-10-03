@@ -17,7 +17,6 @@ import java.time.LocalDateTime;
 import java.util.function.Supplier;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.*;
 
 class PatientUseCaseTest {
@@ -49,11 +48,20 @@ class PatientUseCaseTest {
 
     @Test
     void createPatient_success() {
-        when(patientRepository.save(any())).thenReturn(Mono.just(patient));
+        when(patientRepository.save(any(Patient.class))).thenAnswer(inv -> Mono.just(inv.getArgument(0)));
         StepVerifier.create(patientUseCase.createPatient(patient))
-                .expectNextMatches(p -> p.getFirstName().equals("John"))
+                .assertNext(p -> {
+                    assertEquals(patient.getId(), p.getId());
+                    assertEquals(patient.getFirstName(), p.getFirstName());
+                    assertEquals(patient.getLastName(), p.getLastName());
+                    assertEquals(patient.getBirthDate(), p.getBirthDate());
+                    assertEquals(patient.getSex(), p.getSex());
+                    assertEquals(patient.getAddress(), p.getAddress());
+                    assertEquals(patient.getPhone(), p.getPhone());
+                    assertEquals(patient.getEmail(), p.getEmail());
+                })
                 .verifyComplete();
-        verify(patientRepository).save(any());
+        verify(patientRepository).save(any(Patient.class));
     }
 
     @Test
@@ -62,17 +70,26 @@ class PatientUseCaseTest {
         StepVerifier.create(patientUseCase.createPatient(invalid))
                 .expectErrorSatisfies(e -> assertTrue(e instanceof BusinessException))
                 .verify();
-        verify(patientRepository, never()).save(any());
+    verify(patientRepository, never()).save(patient);
     }
 
     @Test
     void updatePatient_success() {
-    when(patientRepository.findById(patient.getId())).thenReturn(Mono.just(patient));
-    when(patientRepository.update(any())).thenReturn(Mono.just(patient));
-    StepVerifier.create(patientUseCase.updatePatient(patient))
-        .expectNext(patient)
-        .verifyComplete();
-    verify(patientRepository).update(any());
+        when(patientRepository.findById(patient.getId())).thenReturn(Mono.just(patient));
+        when(patientRepository.update(any(Patient.class))).thenAnswer(inv -> Mono.just(inv.getArgument(0)));
+        StepVerifier.create(patientUseCase.updatePatient(patient))
+                .assertNext(p -> {
+                    assertEquals(patient.getId(), p.getId());
+                    assertEquals(patient.getFirstName(), p.getFirstName());
+                    assertEquals(patient.getLastName(), p.getLastName());
+                    assertEquals(patient.getBirthDate(), p.getBirthDate());
+                    assertEquals(patient.getSex(), p.getSex());
+                    assertEquals(patient.getAddress(), p.getAddress());
+                    assertEquals(patient.getPhone(), p.getPhone());
+                    assertEquals(patient.getEmail(), p.getEmail());
+                })
+                .verifyComplete();
+        verify(patientRepository).update(any(Patient.class));
     }
 
     @Test
@@ -125,7 +142,7 @@ class PatientUseCaseTest {
         StepVerifier.create(patientUseCase.deletePatientById(1L))
                 .expectErrorSatisfies(e -> assertTrue(e instanceof BusinessException))
                 .verify();
-        verify(patientRepository, never()).deleteById(any());
+    verify(patientRepository, never()).deleteById(1L);
     }
 
     @Test

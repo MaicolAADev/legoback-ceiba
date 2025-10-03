@@ -1,3 +1,4 @@
+
 package sura.pruebalegoback.web.patient;
 
 import org.junit.jupiter.api.BeforeEach;
@@ -11,9 +12,9 @@ import sura.pruebalegoback.web.services.ExcelExportService;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
+import java.util.function.Function;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.*;
 
 class PatientExcelExportTest {
@@ -43,7 +44,8 @@ class PatientExcelExportTest {
                 .updatedAt(LocalDateTime.now().minusHours(1))
                 .build();
         when(useCase.getAllPatients()).thenReturn(Flux.just(patient));
-        when(excelExportService.generateExcel(any(), any(), any(), any())).thenReturn(new byte[]{1,2,3});
+        List<Patient> patientList = List.of(patient);
+        when(excelExportService.generateExcel(patientList, PatientExcelExport.COLUMNS, PatientExcelExport.ROW_MAPPER, "Pacientes")).thenReturn(new byte[]{1,2,3});
         Mono<byte[]> result = patientExcelExport.buildExcel();
         assertArrayEquals(new byte[]{1,2,3}, result.block());
     }
@@ -51,7 +53,8 @@ class PatientExcelExportTest {
     @Test
     void testBuildExcelWithEmptyList() {
         when(useCase.getAllPatients()).thenReturn(Flux.empty());
-        when(excelExportService.generateExcel(any(), any(), any(), any())).thenReturn(new byte[]{4,5,6});
+        List<Patient> emptyList = List.of();
+        when(excelExportService.generateExcel(emptyList, PatientExcelExport.COLUMNS, PatientExcelExport.ROW_MAPPER, "Pacientes")).thenReturn(new byte[]{4,5,6});
         Mono<byte[]> result = patientExcelExport.buildExcel();
         assertArrayEquals(new byte[]{4,5,6}, result.block());
     }
@@ -71,7 +74,8 @@ class PatientExcelExportTest {
                 .updatedAt(null)
                 .build();
         when(useCase.getAllPatients()).thenReturn(Flux.just(patient));
-        when(excelExportService.generateExcel(any(), any(), any(), any())).thenReturn(new byte[]{7,8,9});
+        List<Patient> patientList = List.of(patient);
+        when(excelExportService.generateExcel(patientList, PatientExcelExport.COLUMNS, PatientExcelExport.ROW_MAPPER, "Pacientes")).thenReturn(new byte[]{7,8,9});
         Mono<byte[]> result = patientExcelExport.buildExcel();
         assertArrayEquals(new byte[]{7,8,9}, result.block());
     }

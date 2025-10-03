@@ -13,7 +13,6 @@ import sura.pruebalegoback.reactive.PatientEventPublisher;
 import sura.pruebalegoback.usecase.patient.PatientUseCase;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.when;
 
 @WebFluxTest({PatientQueryService.class, PatientCreateService.class, PatientUpdateService.class})
@@ -51,7 +50,7 @@ class PatientIntegrationTest {
 
     @Test
     void testUpdatePatient() {
-        when(patientUseCase.updatePatient(any())).thenReturn(Mono.just(patient));
+    when(patientUseCase.updatePatient(patient)).thenReturn(Mono.just(patient));
         webTestClient.put().uri("/patient")
                 .bodyValue(patient)
                 .exchange()

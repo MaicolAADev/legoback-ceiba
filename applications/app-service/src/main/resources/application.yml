@@ -22,3 +22,11 @@ app:
 # VAR_application_yml_self_app_configuration_opt
 
 # VAR_application_yml_self_app_security_configuration_opt
+
+logging:
+  level:
+    root: INFO
+    org.springframework.web: WARN
+    com.example.demo: DEBUG
+  file:
+    name: logs/webflux-demo.log
