@@ -1,600 +1,600 @@
-1759507987899,60,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,1,1,http://localhost:8080/api/patient,57,0,25
-1759507987966,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,1,1,http://localhost:8080/api/patient/20,4,0,0
-1759507987971,12,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,54139,185,1,1,http://localhost:8080/api/patient,7,0,0
-1759507987984,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,1,1,http://localhost:8080/api/patient,15,0,0
-1759507988000,11,Eliminar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,,true,,38,210,1,1,http://localhost:8080/api/patient/28,11,0,0
-1759507988011,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6688,198,1,1,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988014,112,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,1,1,http://localhost:8080/api/patient,112,0,0
-1759507988127,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,1,1,http://localhost:8080/api/patient/20,8,0,0
-1759507988136,22,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,54140,185,1,1,http://localhost:8080/api/patient,10,0,0
-1759507988158,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,1,1,http://localhost:8080/api/patient,16,0,0
-1759507988175,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9122,210,1,1,http://localhost:8080/api/patient/28,10,0,0
-1759507988186,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6688,198,1,1,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988189,107,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,2,2,http://localhost:8080/api/patient,107,0,0
-1759507988297,12,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,310,188,2,2,http://localhost:8080/api/patient/20,12,0,0
-1759507988309,9,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,54633,185,2,2,http://localhost:8080/api/patient,5,0,0
-1759507988319,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,310,380,2,2,http://localhost:8080/api/patient,11,0,0
-1759507988330,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,6,0,0
-1759507988336,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988339,21,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,2,2,http://localhost:8080/api/patient,21,0,0
-1759507988360,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,310,188,2,2,http://localhost:8080/api/patient/20,4,0,0
-1759507988364,9,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,54880,185,2,2,http://localhost:8080/api/patient,3,0,0
-1759507988374,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,2,2,http://localhost:8080/api/patient,12,0,0
-1759507988386,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,8,0,0
-1759507988394,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507988286,119,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,2,2,http://localhost:8080/api/patient,119,0,2
-1759507988406,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,8,0,0
-1759507988415,14,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,55128,185,2,2,http://localhost:8080/api/patient,6,0,0
-1759507988429,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,2,2,http://localhost:8080/api/patient,10,0,0
-1759507988440,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,7,0,0
-1759507988447,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988450,19,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,2,2,http://localhost:8080/api/patient,19,0,0
-1759507988469,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,5,0,0
-1759507988474,8,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,55375,185,2,2,http://localhost:8080/api/patient,4,0,0
-1759507988482,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,2,2,http://localhost:8080/api/patient,10,0,0
-1759507988493,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,4,0,0
-1759507988497,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988398,113,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,2,2,http://localhost:8080/api/patient,113,0,0
-1759507988499,19,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,2,2,http://localhost:8080/api/patient,19,0,0
-1759507988511,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,8,0,0
-1759507988518,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,4,0,0
-1759507988519,11,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,55622,185,2,2,http://localhost:8080/api/patient,9,0,0
-1759507988523,9,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,55622,185,2,2,http://localhost:8080/api/patient,5,0,0
-1759507988531,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,2,2,http://localhost:8080/api/patient,12,0,0
-1759507988533,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,311,380,2,2,http://localhost:8080/api/patient,13,0,0
-1759507988544,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,5,0,0
-1759507988549,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988547,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,5,0,0
-1759507988552,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988554,26,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,2,2,http://localhost:8080/api/patient,26,0,0
-1759507988580,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,4,0,0
-1759507988584,14,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,56116,185,2,2,http://localhost:8080/api/patient,6,0,0
-1759507988598,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,2,2,http://localhost:8080/api/patient,12,0,0
-1759507988610,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,4,0,0
-1759507988615,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507988616,18,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,2,2,http://localhost:8080/api/patient,18,0,0
-1759507988635,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,310,188,2,2,http://localhost:8080/api/patient/20,3,0,0
-1759507988639,10,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,56362,185,2,2,http://localhost:8080/api/patient,4,0,0
-1759507988552,103,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,2,2,http://localhost:8080/api/patient,103,0,0
-1759507988655,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,310,188,2,2,http://localhost:8080/api/patient/20,4,0,0
-1759507988649,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,2,2,http://localhost:8080/api/patient,11,0,0
-1759507988660,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,5,0,0
-1759507988665,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988660,13,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,56363,185,2,2,http://localhost:8080/api/patient,4,0,0
-1759507988674,21,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,2,2,http://localhost:8080/api/patient,21,0,0
-1759507988696,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,6,0,0
-1759507988702,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988705,27,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,2,2,http://localhost:8080/api/patient,27,0,0
-1759507988733,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,5,0,0
-1759507988738,15,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,56857,185,2,2,http://localhost:8080/api/patient,8,0,0
-1759507988754,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,2,2,http://localhost:8080/api/patient,15,0,0
-1759507988770,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,7,0,0
-1759507988778,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507988667,133,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,3,3,http://localhost:8080/api/patient,133,0,0
-1759507988785,39,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,3,3,http://localhost:8080/api/patient,39,0,1
-1759507988825,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,310,188,3,3,http://localhost:8080/api/patient/20,6,0,0
-1759507988831,14,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,57348,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507988845,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,3,3,http://localhost:8080/api/patient,14,0,0
-1759507988859,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507988867,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988781,114,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,3,3,http://localhost:8080/api/patient,114,0,0
-1759507988800,98,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,98,0,0
-1759507988869,29,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,3,3,http://localhost:8080/api/patient,29,0,0
-1759507988895,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507988898,12,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,12,0,0
-1759507988901,19,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,57596,185,3,3,http://localhost:8080/api/patient,6,0,0
-1759507988898,22,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,57596,185,3,3,http://localhost:8080/api/patient,13,0,0
-1759507988911,22,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,57596,185,3,3,http://localhost:8080/api/patient,6,0,0
-1759507988920,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,3,3,http://localhost:8080/api/patient,17,0,0
-1759507988921,19,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,3,3,http://localhost:8080/api/patient,19,0,0
-1759507988937,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,8,0,0
-1759507988941,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507988946,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988947,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988934,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,3,3,http://localhost:8080/api/patient,16,0,0
-1759507988950,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,8,0,0
-1759507988959,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988949,106,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,3,3,http://localhost:8080/api/patient,106,0,0
-1759507989056,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507989060,10,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,58090,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507988949,126,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,3,3,http://localhost:8080/api/patient,126,0,0
-1759507989075,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507989071,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,3,3,http://localhost:8080/api/patient,10,0,0
-1759507989079,11,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,58337,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507989091,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,3,3,http://localhost:8080/api/patient,10,0,0
-1759507989101,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,6,0,0
-1759507989107,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507988961,214,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,371,3,3,http://localhost:8080/api/patient,214,0,0
-1759507989081,104,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,104,0,0
-1759507989186,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507989109,102,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,3,3,http://localhost:8080/api/patient,102,0,0
-1759507989176,54,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,54,0,0
-1759507989230,18,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,58831,185,3,3,http://localhost:8080/api/patient,10,0,0
-1759507989189,85,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,3,3,http://localhost:8080/api/patient,85,0,0
-1759507989248,26,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,3,3,http://localhost:8080/api/patient,26,0,0
-1759507989212,66,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,66,0,0
-1759507989275,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,7,0,0
-1759507989275,11,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,11,0,0
-1759507989286,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507989278,22,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,58831,185,4,4,http://localhost:8080/api/patient,14,0,0
-1759507989283,20,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,58831,185,4,4,http://localhost:8080/api/patient,11,0,0
-1759507989301,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,4,4,http://localhost:8080/api/patient,16,0,0
-1759507989318,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,7,0,0
-1759507989326,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507989283,116,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,371,3,3,http://localhost:8080/api/patient,116,0,3
-1759507989289,114,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,3,3,http://localhost:8080/api/patient,114,0,0
-1759507989400,9,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,9,0,0
-1759507989404,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,6,0,0
-1759507989409,25,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,59325,185,3,3,http://localhost:8080/api/patient,9,0,0
-1759507989411,37,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,59325,185,3,3,http://localhost:8080/api/patient,16,0,0
-1759507989304,146,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,3,3,http://localhost:8080/api/patient,146,0,0
-1759507989450,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,8,0,0
-1759507989459,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507989435,31,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,3,3,http://localhost:8080/api/patient,31,0,0
-1759507989449,19,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,3,3,http://localhost:8080/api/patient,19,0,0
-1759507989466,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,10,0,0
-1759507989468,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,10,0,0
-1759507989477,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507989479,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507989462,47,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,3,3,http://localhost:8080/api/patient,47,0,0
-1759507989481,64,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,3,3,http://localhost:8080/api/patient,64,0,0
-1759507989546,9,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,9,0,0
-1759507989555,24,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,60066,185,3,3,http://localhost:8080/api/patient,11,0,0
-1759507989479,112,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,3,3,http://localhost:8080/api/patient,112,0,0
-1759507989510,85,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,85,0,0
-1759507989592,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507989580,20,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,3,3,http://localhost:8080/api/patient,20,0,0
-1759507989600,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,8,0,0
-1759507989595,15,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,60066,185,3,3,http://localhost:8080/api/patient,6,0,0
-1759507989609,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507989598,20,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,60066,185,3,3,http://localhost:8080/api/patient,9,0,0
-1759507989611,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,3,3,http://localhost:8080/api/patient,14,0,0
-1759507989625,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507989633,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507989636,28,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,3,3,http://localhost:8080/api/patient,28,0,0
-1759507989665,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507989670,12,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,60558,185,3,3,http://localhost:8080/api/patient,6,0,0
-1759507989682,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,3,3,http://localhost:8080/api/patient,12,0,0
-1759507989694,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,6,0,0
-1759507989700,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507989611,112,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,2,2,http://localhost:8080/api/patient,112,0,0
-1759507989723,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,4,0,0
-1759507989618,114,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,2,2,http://localhost:8080/api/patient,114,0,0
-1759507989732,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,5,0,0
-1759507989738,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507989728,12,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,60558,185,2,2,http://localhost:8080/api/patient,4,0,0
-1759507989741,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,2,2,http://localhost:8080/api/patient,11,0,0
-1759507989753,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,7,0,0
-1759507989761,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507989741,110,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,3,3,http://localhost:8080/api/patient,110,0,0
-1759507989851,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507989855,10,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,61052,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507989763,107,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,3,3,http://localhost:8080/api/patient,107,0,0
-1759507989871,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,3,0,0
-1759507989865,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
-1759507989876,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507989881,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,4,0,0
-1759507989875,13,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,61299,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507989781,107,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,3,3,http://localhost:8080/api/patient,107,0,1
-1759507989888,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507989888,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,310,380,3,3,http://localhost:8080/api/patient,10,0,0
-1759507989898,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507989892,11,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,61546,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507989885,18,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,3,3,http://localhost:8080/api/patient,18,0,0
-1759507989903,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507989903,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,310,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507989903,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,3,3,http://localhost:8080/api/patient,10,0,0
-1759507989913,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507989907,10,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,61545,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507989918,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507989905,20,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,3,3,http://localhost:8080/api/patient,20,0,0
-1759507989918,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
-1759507989930,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507989935,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507989919,21,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,3,3,http://localhost:8080/api/patient,21,0,0
-1759507989925,17,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,310,188,3,3,http://localhost:8080/api/patient/20,17,0,0
-1759507989940,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,310,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507989945,10,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,62284,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507989956,8,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,3,3,http://localhost:8080/api/patient,8,0,0
-1759507989964,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507989969,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507989970,20,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,3,3,http://localhost:8080/api/patient,19,0,0
-1759507989990,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,310,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507989995,18,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,62531,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507990014,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,311,380,3,3,http://localhost:8080/api/patient,10,0,0
-1759507990025,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507990031,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507989937,106,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,3,3,http://localhost:8080/api/patient,106,0,0
-1759507989943,109,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,62779,185,3,3,http://localhost:8080/api/patient,103,0,0
-1759507990053,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,3,3,http://localhost:8080/api/patient,10,0,0
-1759507990064,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507990068,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507990070,16,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,3,3,http://localhost:8080/api/patient,16,0,0
-1759507990086,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507990091,8,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,63026,185,3,3,http://localhost:8080/api/patient,3,0,0
-1759507990099,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,3,3,http://localhost:8080/api/patient,10,0,0
-1759507990110,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507990114,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507990033,102,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,3,3,http://localhost:8080/api/patient,102,0,0
-1759507990043,94,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,94,0,0
-1759507990135,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507990116,24,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,371,3,3,http://localhost:8080/api/patient,24,0,0
-1759507990141,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507990137,13,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,63273,185,3,3,http://localhost:8080/api/patient,6,0,0
-1759507990141,11,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,63273,185,3,3,http://localhost:8080/api/patient,3,0,0
-1759507990145,19,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,63273,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507990150,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,3,3,http://localhost:8080/api/patient,15,0,0
-1759507990152,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,3,3,http://localhost:8080/api/patient,15,0,0
-1759507990166,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507990167,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507990171,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507990172,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507990165,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,3,3,http://localhost:8080/api/patient,14,0,0
-1759507990180,14,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,14,0,0
-1759507990194,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507990174,32,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,2,2,http://localhost:8080/api/patient,32,0,0
-1759507990207,3,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,3,0,0
-1759507990211,9,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,63767,185,2,2,http://localhost:8080/api/patient,3,0,0
-1759507990221,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,2,2,http://localhost:8080/api/patient,10,0,0
-1759507990232,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,5,0,0
-1759507990237,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507990240,21,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,2,2,http://localhost:8080/api/patient,21,0,0
-1759507990261,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,5,0,0
-1759507990175,112,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,3,3,http://localhost:8080/api/patient,112,0,0
-1759507990288,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,6,0,0
-1759507990266,31,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,64014,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507990297,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,3,3,http://localhost:8080/api/patient,12,0,0
-1759507990309,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,6,0,0
-1759507990315,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507990318,24,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,3,3,http://localhost:8080/api/patient,24,0,0
-1759507990343,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507990348,20,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,64508,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507990368,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,3,3,http://localhost:8080/api/patient,16,0,0
-1759507990385,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507990391,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507990277,118,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,3,3,http://localhost:8080/api/patient,118,0,4
-1759507990396,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,6,0,0
-1759507990294,121,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,64508,185,3,3,http://localhost:8080/api/patient,106,0,0
-1759507990393,30,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,3,3,http://localhost:8080/api/patient,30,0,0
-1759507990416,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,3,3,http://localhost:8080/api/patient,12,0,0
-1759507990424,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507990429,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507990436,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507990402,44,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,64755,185,3,3,http://localhost:8080/api/patient,25,0,0
-1759507990429,22,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,64755,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507990447,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,3,3,http://localhost:8080/api/patient,10,0,0
-1759507990451,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
-1759507990458,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507990462,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507990462,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507990467,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507990464,22,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,3,3,http://localhost:8080/api/patient,22,0,0
-1759507990486,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507990469,36,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,3,3,http://localhost:8080/api/patient,36,0,0
-1759507990491,20,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,65494,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507990506,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,6,0,0
-1759507990512,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,3,3,http://localhost:8080/api/patient,13,0,0
-1759507990525,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,6,0,0
-1759507990512,20,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,65494,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507990531,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507990440,106,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,3,3,http://localhost:8080/api/patient,106,0,0
-1759507990532,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,3,3,http://localhost:8080/api/patient,17,0,0
-1759507990550,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,6,0,0
-1759507990556,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507990534,110,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,2,2,http://localhost:8080/api/patient,110,0,0
-1759507990547,100,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,100,0,0
-1759507990645,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,4,0,0
-1759507990647,21,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,65741,185,2,2,http://localhost:8080/api/patient,5,0,0
-1759507990650,19,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,65741,185,2,2,http://localhost:8080/api/patient,6,0,0
-1759507990669,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,2,2,http://localhost:8080/api/patient,13,0,0
-1759507990669,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,2,2,http://localhost:8080/api/patient,15,0,0
-1759507990682,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,4,0,0
-1759507990687,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507990684,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,5,0,0
-1759507990690,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507990691,21,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,2,2,http://localhost:8080/api/patient,21,0,0
-1759507990712,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,4,0,0
-1759507990716,17,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,66233,185,2,2,http://localhost:8080/api/patient,4,0,0
-1759507990733,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,2,2,http://localhost:8080/api/patient,15,0,0
-1759507990748,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,6,0,0
-1759507990755,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507990688,103,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,3,3,http://localhost:8080/api/patient,103,0,0
-1759507990791,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,6,0,0
-1759507990798,19,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,66480,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507990818,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,3,3,http://localhost:8080/api/patient,14,0,0
-1759507990832,14,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,14,0,0
-1759507990847,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507990758,131,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,3,3,http://localhost:8080/api/patient,131,0,0
-1759507990849,152,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,371,3,3,http://localhost:8080/api/patient,152,0,0
-1759507990889,117,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,117,0,0
-1759507990779,234,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,3,3,http://localhost:8080/api/patient,234,0,2
-1759507991002,13,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,13,0,0
-1759507991013,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,6,0,0
-1759507991006,24,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,66974,185,3,3,http://localhost:8080/api/patient,9,0,0
-1759507991015,21,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,66974,185,3,3,http://localhost:8080/api/patient,7,0,0
-1759507991020,24,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,66974,185,3,3,http://localhost:8080/api/patient,8,0,0
-1759507991031,19,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,311,380,3,3,http://localhost:8080/api/patient,19,0,0
-1759507991036,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,3,3,http://localhost:8080/api/patient,16,0,0
-1759507991050,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507991053,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507991045,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,3,3,http://localhost:8080/api/patient,13,0,0
-1759507991057,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507991057,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507991058,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507991063,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507991058,34,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,3,3,http://localhost:8080/api/patient,33,0,0
-1759507991092,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507991096,13,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,67468,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507991109,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
-1759507991120,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507991127,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991058,118,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,3,3,http://localhost:8080/api/patient,118,0,0
-1759507991129,115,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,3,3,http://localhost:8080/api/patient,115,0,0
-1759507991176,71,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,310,188,3,3,http://localhost:8080/api/patient/20,71,0,0
-1759507991247,20,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,67961,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507991267,19,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,4,4,http://localhost:8080/api/patient,19,0,0
-1759507991066,223,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,4,4,http://localhost:8080/api/patient,222,0,0
-1759507991244,52,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,51,0,0
-1759507991289,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,8,0,0
-1759507991296,24,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,68209,185,4,4,http://localhost:8080/api/patient,10,0,0
-1759507991298,22,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,68209,185,4,4,http://localhost:8080/api/patient,11,0,0
-1759507991320,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,4,4,http://localhost:8080/api/patient,13,0,0
-1759507991320,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,4,4,http://localhost:8080/api/patient,14,0,0
-1759507991333,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,6,0,0
-1759507991334,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,7,0,0
-1759507991339,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507991341,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991342,21,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,4,4,http://localhost:8080/api/patient,21,0,0
-1759507991277,123,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,4,4,http://localhost:8080/api/patient,123,0,1
-1759507991287,117,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,117,0,0
-1759507991400,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,6,0,0
-1759507991404,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,5,0,0
-1759507991407,19,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,68701,185,4,4,http://localhost:8080/api/patient,8,0,0
-1759507991409,24,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,4,4,http://localhost:8080/api/patient,24,0,0
-1759507991427,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,311,380,4,4,http://localhost:8080/api/patient,10,0,0
-1759507991434,3,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,3,0,0
-1759507991437,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,9,0,0
-1759507991343,105,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,4,4,http://localhost:8080/api/patient,105,0,0
-1759507991446,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,4,0,0
-1759507991363,88,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,88,0,0
-1759507991448,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,6,0,0
-1759507991437,27,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,68948,185,4,4,http://localhost:8080/api/patient,8,0,0
-1759507991451,27,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,68948,185,4,4,http://localhost:8080/api/patient,6,0,0
-1759507991454,24,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,68948,185,4,4,http://localhost:8080/api/patient,8,0,0
-1759507991465,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,311,380,4,4,http://localhost:8080/api/patient,16,0,0
-1759507991451,33,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,313,371,4,4,http://localhost:8080/api/patient,33,0,0
-1759507991481,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,4,0,0
-1759507991485,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991484,3,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,3,0,0
-1759507991478,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,3,3,http://localhost:8080/api/patient,10,0,0
-1759507991478,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,3,3,http://localhost:8080/api/patient,12,0,0
-1759507991489,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,6,0,0
-1759507991491,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507991495,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507991496,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991488,12,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,69195,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507991501,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,311,380,3,3,http://localhost:8080/api/patient,12,0,0
-1759507991513,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507991497,21,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,310,371,3,3,http://localhost:8080/api/patient,21,0,0
-1759507991498,21,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,3,3,http://localhost:8080/api/patient,21,0,0
-1759507991518,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991518,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507991519,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507991522,13,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,69687,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507991524,13,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,69934,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507991536,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,3,3,http://localhost:8080/api/patient,13,0,0
-1759507991537,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,3,3,http://localhost:8080/api/patient,12,0,0
-1759507991549,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507991550,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507991554,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991554,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991556,22,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,3,3,http://localhost:8080/api/patient,22,0,0
-1759507991578,3,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,3,0,0
-1759507991582,12,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,70428,185,3,3,http://localhost:8080/api/patient,3,0,0
-1759507991594,9,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,3,3,http://localhost:8080/api/patient,9,0,0
-1759507991603,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507991608,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991520,104,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,313,371,2,2,http://localhost:8080/api/patient,104,0,0
-1759507991624,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,4,0,0
-1759507991629,17,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,70428,185,2,2,http://localhost:8080/api/patient,5,0,0
-1759507991646,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,2,2,http://localhost:8080/api/patient,11,0,0
-1759507991556,103,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,2,2,http://localhost:8080/api/patient,103,0,0
-1759507991659,3,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,3,0,0
-1759507991657,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,5,0,0
-1759507991662,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991662,19,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,70428,185,2,2,http://localhost:8080/api/patient,4,0,0
-1759507991681,9,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,311,380,2,2,http://localhost:8080/api/patient,9,0,0
-1759507991690,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,5,0,0
-1759507991696,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507991697,19,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,2,2,http://localhost:8080/api/patient,19,0,0
-1759507991716,3,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,3,0,0
-1759507991719,14,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,70922,185,2,2,http://localhost:8080/api/patient,4,0,0
-1759507991733,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,311,380,2,2,http://localhost:8080/api/patient,13,0,0
-1759507991746,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,6,0,0
-1759507991752,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991664,106,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,2,2,http://localhost:8080/api/patient,106,0,0
-1759507991776,27,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,3,3,http://localhost:8080/api/patient,27,0,2
-1759507991804,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507991809,21,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,71416,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507991831,9,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,3,3,http://localhost:8080/api/patient,9,0,0
-1759507991840,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507991845,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,5,0,0
-1759507991755,112,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,3,3,http://localhost:8080/api/patient,112,0,0
-1759507991770,99,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,99,0,0
-1759507991867,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507991871,16,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,71663,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507991888,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,3,3,http://localhost:8080/api/patient,13,0,0
-1759507991901,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507991909,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507991850,111,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,3,3,http://localhost:8080/api/patient,111,0,0
-1759507991869,113,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,71909,185,3,3,http://localhost:8080/api/patient,97,0,0
-1759507991983,19,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,3,3,http://localhost:8080/api/patient,19,0,0
-1759507992002,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507992010,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507991912,113,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,3,3,http://localhost:8080/api/patient,113,0,0
-1759507991961,68,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,68,0,0
-1759507992029,23,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,72157,185,3,3,http://localhost:8080/api/patient,9,0,0
-1759507992052,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,3,3,http://localhost:8080/api/patient,14,0,0
-1759507992066,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507992073,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992013,124,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,3,3,http://localhost:8080/api/patient,124,0,0
-1759507992025,117,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,310,188,3,3,http://localhost:8080/api/patient/20,117,0,0
-1759507992142,19,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,72403,185,3,3,http://localhost:8080/api/patient,7,0,0
-1759507992162,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,3,3,http://localhost:8080/api/patient,13,0,0
-1759507992175,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507992182,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992075,112,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,3,3,http://localhost:8080/api/patient,112,0,0
-1759507992137,56,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,56,0,0
-1759507992188,9,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,9,0,0
-1759507992193,28,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,72651,185,3,3,http://localhost:8080/api/patient,18,0,0
-1759507992222,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,311,380,3,3,http://localhost:8080/api/patient,14,0,0
-1759507992236,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507992244,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992246,26,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,3,3,http://localhost:8080/api/patient,26,0,0
-1759507992272,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507992277,17,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,72898,185,4,4,http://localhost:8080/api/patient,4,0,0
-1759507992184,115,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,371,4,4,http://localhost:8080/api/patient,115,0,0
-1759507992294,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,4,4,http://localhost:8080/api/patient,13,0,0
-1759507992308,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,5,0,0
-1759507992313,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992287,29,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,4,4,http://localhost:8080/api/patient,29,0,2
-1759507992197,120,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,73145,185,4,4,http://localhost:8080/api/patient,112,0,0
-1759507992299,20,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,19,0,0
-1759507992316,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,4,0,0
-1759507992317,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,4,4,http://localhost:8080/api/patient,16,0,0
-1759507992334,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,7,0,0
-1759507992341,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,4,0,0
-1759507992320,33,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,73392,185,4,4,http://localhost:8080/api/patient,10,0,0
-1759507992319,39,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,73392,185,4,4,http://localhost:8080/api/patient,6,0,0
-1759507992358,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,4,4,http://localhost:8080/api/patient,11,0,0
-1759507992345,26,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,4,4,http://localhost:8080/api/patient,26,0,0
-1759507992369,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,5,0,0
-1759507992371,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,4,0,0
-1759507992374,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507992354,25,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,4,4,http://localhost:8080/api/patient,25,0,0
-1759507992376,11,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,73639,185,4,4,http://localhost:8080/api/patient,3,0,0
-1759507992388,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,4,4,http://localhost:8080/api/patient,11,0,0
-1759507992399,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,4,0,0
-1759507992404,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992315,112,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,4,4,http://localhost:8080/api/patient,112,0,0
-1759507992376,105,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,4,4,http://localhost:8080/api/patient,105,0,0
-1759507992379,109,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,109,0,0
-1759507992481,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,7,0,0
-1759507992488,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507992406,107,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,4,4,http://localhost:8080/api/patient,106,0,0
-1759507992427,90,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,90,0,0
-1759507992489,35,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,74133,185,4,4,http://localhost:8080/api/patient,10,0,0
-1759507992492,42,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,4,4,http://localhost:8080/api/patient,42,0,0
-1759507992513,23,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,23,0,0
-1759507992534,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,5,0,0
-1759507992524,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,311,380,4,4,http://localhost:8080/api/patient,16,0,0
-1759507992540,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9122,210,4,4,http://localhost:8080/api/patient/28,7,0,0
-1759507992548,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6688,198,4,4,http://localhost:8080/api/patient/export/excel,4,0,0
-1759507992536,36,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,74380,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507992539,36,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,74380,185,3,3,http://localhost:8080/api/patient,6,0,0
-1759507992575,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,3,3,http://localhost:8080/api/patient,17,0,0
-1759507992572,22,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,3,3,http://localhost:8080/api/patient,22,0,0
-1759507992592,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,6,0,0
-1759507992594,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,6,0,0
-1759507992598,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992600,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992517,100,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,74380,185,3,3,http://localhost:8080/api/patient,8,0,0
-1759507992601,22,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,371,3,3,http://localhost:8080/api/patient,22,0,0
-1759507992602,23,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,3,3,http://localhost:8080/api/patient,22,0,0
-1759507992623,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507992618,9,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,3,3,http://localhost:8080/api/patient,9,0,0
-1759507992625,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507992627,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507992632,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992627,17,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,74874,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507992629,18,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,74874,185,3,3,http://localhost:8080/api/patient,4,0,0
-1759507992644,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
-1759507992647,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
-1759507992656,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,6,0,0
-1759507992662,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992658,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,6,0,0
-1759507992664,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992666,18,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,3,3,http://localhost:8080/api/patient,18,0,0
-1759507992664,20,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,3,3,http://localhost:8080/api/patient,20,0,0
-1759507992684,3,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,3,0,0
-1759507992684,3,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,3,0,0
-1759507992687,15,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,75615,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507992687,15,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,75615,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507992702,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
-1759507992702,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,3,3,http://localhost:8080/api/patient,13,0,0
-1759507992714,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507992715,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507992719,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992719,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992721,20,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,3,3,http://localhost:8080/api/patient,20,0,0
-1759507992634,108,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,3,3,http://localhost:8080/api/patient,108,0,0
-1759507992742,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,310,188,3,3,http://localhost:8080/api/patient/20,4,0,0
-1759507992746,12,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,76104,185,3,3,http://localhost:8080/api/patient,3,0,0
-1759507992758,9,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,3,3,http://localhost:8080/api/patient,9,0,0
-1759507992767,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507992771,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507992721,108,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,3,3,http://localhost:8080/api/patient,107,0,0
-1759507992741,90,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,90,0,0
-1759507992829,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507992834,27,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,76348,185,3,3,http://localhost:8080/api/patient,6,0,0
-1759507992861,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,3,3,http://localhost:8080/api/patient,14,0,0
-1759507992773,106,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,3,3,http://localhost:8080/api/patient,106,0,0
-1759507992878,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,5,0,0
-1759507992875,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,9,0,0
-1759507992884,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,4,0,0
-1759507992831,90,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,76348,185,3,3,http://localhost:8080/api/patient,52,0,0
-1759507992884,45,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,76348,185,3,3,http://localhost:8080/api/patient,11,0,0
-1759507992920,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
-1759507992931,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,5,0,0
-1759507992937,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507992930,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,3,3,http://localhost:8080/api/patient,10,0,0
-1759507992940,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,4,0,0
-1759507992944,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507992888,127,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,3,3,http://localhost:8080/api/patient,127,0,0
-1759507993015,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,7,0,0
-1759507992939,104,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,3,3,http://localhost:8080/api/patient,104,0,0
-1759507993044,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,7,0,0
-1759507993022,38,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,76842,185,3,3,http://localhost:8080/api/patient,10,0,0
-1759507993060,9,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,3,3,http://localhost:8080/api/patient,9,0,0
-1759507992945,124,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,3,3,http://localhost:8080/api/patient,124,0,0
-1759507993069,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,6,0,0
-1759507993069,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,7,0,0
-1759507993076,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507993076,25,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,77089,185,3,3,http://localhost:8080/api/patient,5,0,0
-1759507993101,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,3,3,http://localhost:8080/api/patient,9,0,0
-1759507993111,3,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9122,210,3,3,http://localhost:8080/api/patient/28,3,0,0
-1759507993114,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6688,198,3,3,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507993051,69,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,77089,185,2,2,http://localhost:8080/api/patient,22,0,0
-1759507993120,8,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,2,2,http://localhost:8080/api/patient,8,0,0
-1759507993128,3,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,3,0,0
-1759507993132,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507993078,109,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,2,2,http://localhost:8080/api/patient,108,0,0
-1759507993133,105,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,2,2,http://localhost:8080/api/patient,105,0,0
-1759507993187,55,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,55,0,0
-1759507993238,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,2,2,http://localhost:8080/api/patient/20,7,0,0
-1759507993243,27,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,77583,185,2,2,http://localhost:8080/api/patient,7,0,0
-1759507993245,27,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,77583,185,2,2,http://localhost:8080/api/patient,6,0,0
-1759507993272,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,2,2,http://localhost:8080/api/patient,13,0,0
-1759507993271,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,2,2,http://localhost:8080/api/patient,17,0,0
-1759507993285,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,6,0,0
-1759507993288,4,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9122,210,2,2,http://localhost:8080/api/patient/28,4,0,0
-1759507993291,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6688,198,2,2,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507993292,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6688,198,1,1,http://localhost:8080/api/patient/export/excel,3,0,0
-1759507993295,23,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,1,1,http://localhost:8080/api/patient,23,0,0
-1759507993318,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,310,188,1,1,http://localhost:8080/api/patient/20,5,0,0
-1759507993323,20,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,77829,185,1,1,http://localhost:8080/api/patient,4,0,0
-1759507993343,8,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,1,1,http://localhost:8080/api/patient,8,0,0
-1759507993351,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9122,210,1,1,http://localhost:8080/api/patient/28,5,0,0
-1759507993357,1,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6688,198,1,1,http://localhost:8080/api/patient/export/excel,1,0,0
-1759507993358,138,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,1,1,http://localhost:8080/api/patient,138,0,0
-1759507993496,9,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,1,1,http://localhost:8080/api/patient/20,8,0,0
-1759507993505,25,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,78077,185,1,1,http://localhost:8080/api/patient,8,0,0
-1759507993531,18,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,1,1,http://localhost:8080/api/patient,18,0,0
-1759507993549,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9122,210,1,1,http://localhost:8080/api/patient/28,9,0,0
-1759507993558,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6688,198,1,1,http://localhost:8080/api/patient/export/excel,2,0,0
-1759507993561,37,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,1,1,http://localhost:8080/api/patient,37,0,0
-1759507993598,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,1,1,http://localhost:8080/api/patient/20,5,0,0
-1759507993603,22,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,78324,185,1,1,http://localhost:8080/api/patient,5,0,0
-1759507993625,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,1,1,http://localhost:8080/api/patient,14,0,0
-1759507993639,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9122,210,1,1,http://localhost:8080/api/patient/28,5,0,0
-1759507993644,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6688,198,1,1,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517294031,663,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,3,3,http://localhost:8080/api/patient,660,0,2
+1759517293631,1062,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,3,3,http://localhost:8080/api/patient,1059,0,25
+1759517294532,164,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,3,3,http://localhost:8080/api/patient,164,0,3
+1759517294703,181,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,181,0,0
+1759517294703,181,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,181,0,0
+1759517294703,181,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,181,0,0
+1759517295028,33,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,4,4,http://localhost:8080/api/patient,33,0,2
+1759517295062,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,8,0,0
+1759517294884,226,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,79065,185,4,4,http://localhost:8080/api/patient,141,0,0
+1759517294884,228,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,79065,185,4,4,http://localhost:8080/api/patient,141,0,0
+1759517294884,235,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,79065,185,4,4,http://localhost:8080/api/patient,141,0,0
+1759517295070,123,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,79312,185,4,4,http://localhost:8080/api/patient,7,0,0
+1759517295119,112,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,4,4,http://localhost:8080/api/patient,112,0,0
+1759517295111,123,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,4,4,http://localhost:8080/api/patient,123,0,0
+1759517295113,124,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,4,4,http://localhost:8080/api/patient,124,0,0
+1759517295193,46,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,4,4,http://localhost:8080/api/patient,46,0,0
+1759517295232,147,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9120,210,4,4,http://localhost:8080/api/patient/28,146,0,0
+1759517295234,145,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9120,210,4,4,http://localhost:8080/api/patient/28,144,0,0
+1759517295237,142,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9120,210,4,4,http://localhost:8080/api/patient/28,141,0,0
+1759517295239,146,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9120,210,4,4,http://localhost:8080/api/patient/28,146,0,0
+1759517295380,33,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6686,198,4,4,http://localhost:8080/api/patient/export/excel,33,0,0
+1759517295385,28,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6686,198,4,4,http://localhost:8080/api/patient/export/excel,28,0,0
+1759517295380,33,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6686,198,4,4,http://localhost:8080/api/patient/export/excel,33,0,0
+1759517295380,33,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6686,198,4,4,http://localhost:8080/api/patient/export/excel,33,0,0
+1759517295414,30,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,4,4,http://localhost:8080/api/patient,30,0,0
+1759517295414,30,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,4,4,http://localhost:8080/api/patient,30,0,0
+1759517295444,9,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,9,0,0
+1759517295414,110,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,4,4,http://localhost:8080/api/patient,110,0,0
+1759517295413,112,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,4,4,http://localhost:8080/api/patient,112,0,0
+1759517295453,72,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,80300,185,4,4,http://localhost:8080/api/patient,10,0,0
+1759517295444,84,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,84,0,0
+1759517295525,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,6,0,0
+1759517295525,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,8,0,0
+1759517295526,21,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,5,5,http://localhost:8080/api/patient,21,0,0
+1759517295548,12,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,12,0,0
+1759517295528,37,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,5,5,http://localhost:8080/api/patient,37,0,2
+1759517295561,6,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,6,0,0
+1759517295565,9,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,9,0,0
+1759517295568,38,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,5,5,http://localhost:8080/api/patient,38,0,0
+1759517295607,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,8,0,0
+1759517295531,108,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,80300,185,5,5,http://localhost:8080/api/patient,8,0,0
+1759517295533,116,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,80300,185,5,5,http://localhost:8080/api/patient,7,0,0
+1759517295528,124,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,80300,185,5,5,http://localhost:8080/api/patient,6,0,0
+1759517295639,22,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,5,5,http://localhost:8080/api/patient,22,0,0
+1759517295649,19,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,5,5,http://localhost:8080/api/patient,18,0,0
+1759517295653,20,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,5,5,http://localhost:8080/api/patient,20,0,0
+1759517295661,12,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,12,0,0
+1759517295674,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,5,0,0
+1759517295668,11,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,11,0,0
+1759517295680,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,5,0,0
+1759517295674,11,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,11,0,0
+1759517295575,113,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,80794,185,5,5,http://localhost:8080/api/patient,8,0,0
+1759517295685,6,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,6,0,0
+1759517295680,31,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,5,5,http://localhost:8080/api/patient,31,0,0
+1759517295615,99,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,80794,185,5,5,http://localhost:8080/api/patient,6,0,0
+1759517295712,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,7,0,0
+1759517295689,34,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,5,5,http://localhost:8080/api/patient,34,0,0
+1759517295715,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,5,5,http://localhost:8080/api/patient,15,0,0
+1759517295730,12,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,12,0,0
+1759517295743,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517295719,41,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,81535,185,5,5,http://localhost:8080/api/patient,6,0,0
+1759517295761,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,5,5,http://localhost:8080/api/patient,16,0,0
+1759517295777,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,10,0,0
+1759517295787,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517295685,116,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,371,5,5,http://localhost:8080/api/patient,116,0,0
+1759517295691,117,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,5,5,http://localhost:8080/api/patient,117,0,0
+1759517295723,91,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,91,0,0
+1759517295809,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,8,0,0
+1759517295791,27,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,5,5,http://localhost:8080/api/patient,27,0,0
+1759517295815,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517295802,19,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,19,0,0
+1759517295819,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,4,0,0
+1759517295747,105,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,5,5,http://localhost:8080/api/patient,105,0,0
+1759517295853,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,7,0,0
+1759517295818,59,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,82029,185,5,5,http://localhost:8080/api/patient,6,0,0
+1759517295824,54,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,82029,185,5,5,http://localhost:8080/api/patient,7,0,0
+1759517295821,60,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,82029,185,5,5,http://localhost:8080/api/patient,5,0,0
+1759517295877,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,5,5,http://localhost:8080/api/patient,17,0,0
+1759517295878,18,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,5,5,http://localhost:8080/api/patient,18,0,0
+1759517295881,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,5,5,http://localhost:8080/api/patient,17,0,0
+1759517295895,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,10,0,0
+1759517295897,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,10,0,0
+1759517295905,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517295898,12,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,12,0,0
+1759517295907,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517295860,52,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,82276,185,5,5,http://localhost:8080/api/patient,6,0,0
+1759517295910,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517295912,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,5,5,http://localhost:8080/api/patient,15,0,0
+1759517295910,23,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,5,5,http://localhost:8080/api/patient,23,0,0
+1759517295911,25,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,5,5,http://localhost:8080/api/patient,25,0,0
+1759517295928,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9120,210,5,5,http://localhost:8080/api/patient/28,9,0,0
+1759517295937,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6686,198,5,5,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517295937,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,310,188,5,5,http://localhost:8080/api/patient/20,5,0,0
+1759517295914,43,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,5,5,http://localhost:8080/api/patient,43,0,0
+1759517295934,25,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,310,188,5,5,http://localhost:8080/api/patient/20,25,0,0
+1759517295819,141,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,5,5,http://localhost:8080/api/patient,141,0,0
+1759517295958,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,310,188,5,5,http://localhost:8080/api/patient/20,6,0,0
+1759517295960,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,310,188,5,5,http://localhost:8080/api/patient/20,6,0,0
+1759517295942,48,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,83014,185,5,5,http://localhost:8080/api/patient,5,0,0
+1759517295991,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,311,380,5,5,http://localhost:8080/api/patient,16,0,0
+1759517295964,50,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,83261,185,5,5,http://localhost:8080/api/patient,7,0,0
+1759517296008,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,8,0,0
+1759517295967,50,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,83261,185,5,5,http://localhost:8080/api/patient,5,0,0
+1759517296017,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296014,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,6,6,http://localhost:8080/api/patient,14,0,0
+1759517296017,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,6,6,http://localhost:8080/api/patient,15,0,0
+1759517296033,11,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,11,0,0
+1759517296045,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517295941,111,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,6,6,http://localhost:8080/api/patient,111,0,0
+1759517296025,30,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,371,6,6,http://localhost:8080/api/patient,30,0,2
+1759517296052,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,7,0,0
+1759517296055,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,7,0,0
+1759517295960,142,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,83756,185,6,6,http://localhost:8080/api/patient,96,0,0
+1759517296060,49,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,84003,185,6,6,http://localhost:8080/api/patient,6,0,0
+1759517296102,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,6,6,http://localhost:8080/api/patient,16,0,0
+1759517296110,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,6,6,http://localhost:8080/api/patient,16,0,0
+1759517296119,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,8,0,0
+1759517296127,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517296021,111,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,6,6,http://localhost:8080/api/patient,111,0,0
+1759517296126,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,8,0,0
+1759517296029,108,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,108,0,0
+1759517296135,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517296132,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,7,0,0
+1759517296137,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296049,114,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,371,6,6,http://localhost:8080/api/patient,114,0,0
+1759517296063,127,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,84744,185,6,6,http://localhost:8080/api/patient,105,0,0
+1759517296191,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,6,6,http://localhost:8080/api/patient,17,0,0
+1759517296208,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,9,0,0
+1759517296217,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296130,110,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,6,6,http://localhost:8080/api/patient,110,0,0
+1759517296139,108,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,6,6,http://localhost:8080/api/patient,108,0,0
+1759517296142,110,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,6,6,http://localhost:8080/api/patient,110,0,0
+1759517296247,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,6,0,0
+1759517296164,90,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,90,0,0
+1759517296253,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,6,0,0
+1759517296140,157,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,84991,185,6,6,http://localhost:8080/api/patient,107,0,0
+1759517296254,48,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,84991,185,6,6,http://localhost:8080/api/patient,5,0,0
+1759517296255,49,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,84991,185,6,6,http://localhost:8080/api/patient,5,0,0
+1759517296259,45,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,84991,185,6,6,http://localhost:8080/api/patient,6,0,0
+1759517296298,19,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,6,6,http://localhost:8080/api/patient,19,0,0
+1759517296302,18,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,311,380,6,6,http://localhost:8080/api/patient,17,0,0
+1759517296304,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,6,6,http://localhost:8080/api/patient,17,0,0
+1759517296305,18,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,6,6,http://localhost:8080/api/patient,18,0,0
+1759517296317,11,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,11,0,0
+1759517296221,107,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,6,6,http://localhost:8080/api/patient,107,0,0
+1759517296320,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,8,0,0
+1759517296241,89,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,89,0,0
+1759517296328,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,5,0,0
+1759517296329,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296324,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,9,0,0
+1759517296322,11,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,11,0,0
+1759517296328,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,8,0,0
+1759517296334,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296334,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296334,36,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,6,6,http://localhost:8080/api/patient,36,0,0
+1759517296334,38,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,6,6,http://localhost:8080/api/patient,38,0,0
+1759517296338,34,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,6,6,http://localhost:8080/api/patient,34,0,0
+1759517296372,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,7,0,0
+1759517296338,41,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,6,6,http://localhost:8080/api/patient,41,0,0
+1759517296372,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,8,0,0
+1759517296371,14,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,14,0,0
+1759517296380,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,8,0,0
+1759517296389,88,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,85979,185,6,6,http://localhost:8080/api/patient,8,0,0
+1759517296337,144,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,84991,185,6,6,http://localhost:8080/api/patient,7,0,0
+1759517296380,109,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,85979,185,6,6,http://localhost:8080/api/patient,6,0,0
+1759517296481,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,6,6,http://localhost:8080/api/patient,16,0,0
+1759517296479,20,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,6,6,http://localhost:8080/api/patient,20,0,0
+1759517296497,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,10,0,0
+1759517296380,129,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,85979,185,6,6,http://localhost:8080/api/patient,7,0,0
+1759517296386,123,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,85979,185,6,6,http://localhost:8080/api/patient,7,0,0
+1759517296508,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517296500,11,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,11,0,0
+1759517296490,21,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,6,6,http://localhost:8080/api/patient,21,0,0
+1759517296512,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296510,18,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,7,7,http://localhost:8080/api/patient,18,0,0
+1759517296512,16,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,16,0,0
+1759517296331,200,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,84991,185,7,7,http://localhost:8080/api/patient,13,0,0
+1759517296510,22,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,7,7,http://localhost:8080/api/patient,22,0,0
+1759517296528,6,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,5,0,0
+1759517296528,31,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,31,0,0
+1759517296559,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296532,86,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,86,0,0
+1759517296619,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296512,164,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,7,7,http://localhost:8080/api/patient,164,0,0
+1759517296532,161,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,7,7,http://localhost:8080/api/patient,161,0,0
+1759517296564,135,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,7,7,http://localhost:8080/api/patient,135,0,0
+1759517296694,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,10,0,0
+1759517296534,171,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,7,7,http://localhost:8080/api/patient,171,0,0
+1759517296700,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,8,0,0
+1759517296704,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,5,0,0
+1759517296527,182,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,7,7,http://localhost:8080/api/patient,182,0,7
+1759517296706,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,6,0,0
+1759517296677,37,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,37,0,0
+1759517296710,24,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,24,0,0
+1759517296735,60,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,87457,185,7,7,http://localhost:8080/api/patient,9,0,0
+1759517296713,95,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,87457,185,7,7,http://localhost:8080/api/patient,28,0,0
+1759517296796,39,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,7,7,http://localhost:8080/api/patient,39,0,0
+1759517296809,32,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,7,7,http://localhost:8080/api/patient,32,0,0
+1759517296836,29,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,29,0,0
+1759517296516,353,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,7,7,http://localhost:8080/api/patient,353,0,0
+1759517296866,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296870,15,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,15,0,0
+1759517296841,50,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,50,0,0
+1759517296892,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,5,0,0
+1759517296710,239,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,7,7,http://localhost:8080/api/patient,239,0,0
+1759517296950,10,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,10,0,0
+1759517296624,340,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,7,7,http://localhost:8080/api/patient,340,0,0
+1759517296965,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,6,0,0
+1759517296870,105,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,7,7,http://localhost:8080/api/patient,105,0,0
+1759517296714,273,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,87704,185,7,7,http://localhost:8080/api/patient,164,0,0
+1759517296976,13,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,13,0,0
+1759517296885,114,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,87704,185,7,7,http://localhost:8080/api/patient,15,0,0
+1759517296972,52,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,87951,185,7,7,http://localhost:8080/api/patient,6,0,0
+1759517296988,42,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,8,8,http://localhost:8080/api/patient,41,0,0
+1759517296708,327,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,87951,185,8,8,http://localhost:8080/api/patient,260,0,0
+1759517296999,42,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,8,8,http://localhost:8080/api/patient,42,0,0
+1759517297024,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,8,8,http://localhost:8080/api/patient,17,0,0
+1759517297030,14,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,14,0,0
+1759517297045,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297042,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,8,0,0
+1759517297035,19,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,8,8,http://localhost:8080/api/patient,19,0,0
+1759517297051,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517296960,99,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,87951,185,8,8,http://localhost:8080/api/patient,12,0,0
+1759517297042,19,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,19,0,0
+1759517297062,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517297054,13,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,13,0,0
+1759517297068,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517296990,107,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,88198,185,8,8,http://localhost:8080/api/patient,13,0,0
+1759517296898,223,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,8,8,http://localhost:8080/api/patient,223,0,0
+1759517297097,40,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,8,8,http://localhost:8080/api/patient,40,0,0
+1759517297138,13,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,13,0,0
+1759517297152,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297050,114,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,8,8,http://localhost:8080/api/patient,114,0,0
+1759517297164,13,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,13,0,0
+1759517297026,198,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,371,8,8,http://localhost:8080/api/patient,198,0,5
+1759517297177,54,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,89433,185,8,8,http://localhost:8080/api/patient,8,0,0
+1759517297055,198,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,8,8,http://localhost:8080/api/patient,198,0,0
+1759517297254,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,6,0,0
+1759517297060,207,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,8,8,http://localhost:8080/api/patient,207,0,0
+1759517297066,206,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,371,8,8,http://localhost:8080/api/patient,206,0,0
+1759517297267,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,10,0,0
+1759517297122,156,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,156,0,0
+1759517297273,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,7,0,0
+1759517297278,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297261,37,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,89680,185,8,8,http://localhost:8080/api/patient,16,0,0
+1759517297157,163,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,8,8,http://localhost:8080/api/patient,163,0,0
+1759517297321,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,7,0,0
+1759517297278,52,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,89680,185,8,8,http://localhost:8080/api/patient,7,0,0
+1759517297280,52,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,89680,185,8,8,http://localhost:8080/api/patient,10,0,0
+1759517297225,118,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,118,0,0
+1759517297073,273,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,8,8,http://localhost:8080/api/patient,273,0,0
+1759517297346,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,6,0,0
+1759517297333,44,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,8,8,http://localhost:8080/api/patient,43,0,0
+1759517297377,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,10,0,0
+1759517297388,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517297329,67,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,89927,185,8,8,http://localhost:8080/api/patient,7,0,0
+1759517297333,76,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,312,380,8,8,http://localhost:8080/api/patient,76,0,0
+1759517297232,179,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,8,8,http://localhost:8080/api/patient,178,0,0
+1759517297284,137,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,8,8,http://localhost:8080/api/patient,136,0,0
+1759517297396,28,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,311,380,8,8,http://localhost:8080/api/patient,28,0,0
+1759517297412,19,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,19,0,0
+1759517297353,78,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,89927,185,8,8,http://localhost:8080/api/patient,5,0,0
+1759517297344,88,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,89927,185,8,8,http://localhost:8080/api/patient,30,0,0
+1759517297421,13,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,13,0,0
+1759517297432,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517297410,25,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,25,0,0
+1759517297436,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517297299,148,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,8,8,http://localhost:8080/api/patient,148,0,0
+1759517297425,22,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,22,0,0
+1759517297448,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297432,27,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,8,8,http://localhost:8080/api/patient,27,0,0
+1759517297447,19,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,19,0,0
+1759517297467,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297432,39,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,8,8,http://localhost:8080/api/patient,39,0,0
+1759517297435,65,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,90174,185,8,8,http://localhost:8080/api/patient,7,0,0
+1759517297500,47,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,9,9,http://localhost:8080/api/patient,47,0,0
+1759517297392,182,Crear Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,314,371,9,9,http://localhost:8080/api/patient,182,0,0
+1759517297575,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-3,text,true,,309,188,9,9,http://localhost:8080/api/patient/20,8,0,0
+1759517297436,184,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,9,9,http://localhost:8080/api/patient,184,0,0
+1759517297440,185,Crear Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,314,371,9,9,http://localhost:8080/api/patient,185,0,0
+1759517297460,167,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9121,210,9,9,http://localhost:8080/api/patient/28,167,0,0
+1759517297621,9,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,309,188,9,9,http://localhost:8080/api/patient/20,9,0,0
+1759517297584,48,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-3,text,true,,91158,185,9,9,http://localhost:8080/api/patient,6,0,0
+1759517297626,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-1,text,true,,309,188,9,9,http://localhost:8080/api/patient/20,6,0,0
+1759517297628,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6687,198,9,9,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297452,185,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,9,9,http://localhost:8080/api/patient,185,0,0
+1759517297638,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,309,188,9,9,http://localhost:8080/api/patient/20,7,0,0
+1759517297472,174,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9121,210,9,9,http://localhost:8080/api/patient/28,174,0,0
+1759517297632,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-3,text,true,,312,380,9,9,http://localhost:8080/api/patient,15,0,0
+1759517297646,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6687,198,9,9,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297530,139,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,9,9,http://localhost:8080/api/patient,139,0,4
+1759517297471,212,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,9,9,http://localhost:8080/api/patient,212,0,0
+1759517297548,144,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9121,210,9,9,http://localhost:8080/api/patient/28,144,0,0
+1759517297683,12,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,9,9,http://localhost:8080/api/patient/20,12,0,0
+1759517297645,51,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,91654,185,9,9,http://localhost:8080/api/patient,6,0,0
+1759517297632,65,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,9,9,http://localhost:8080/api/patient,65,0,0
+1759517297648,54,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-3,text,false,,9121,210,9,9,http://localhost:8080/api/patient/28,54,0,0
+1759517297694,11,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6687,198,9,9,http://localhost:8080/api/patient/export/excel,11,0,0
+1759517297698,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,9,9,http://localhost:8080/api/patient/20,8,0,0
+1759517297704,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-3,text,false,,6687,198,9,9,http://localhost:8080/api/patient/export/excel,5,0,0
+1759517297697,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,8,8,http://localhost:8080/api/patient,15,0,0
+1759517297713,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,9,0,0
+1759517297722,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297630,103,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,91405,185,8,8,http://localhost:8080/api/patient,6,0,0
+1759517297733,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,8,8,http://localhost:8080/api/patient,16,0,0
+1759517297749,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,9,0,0
+1759517297758,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297706,63,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,91901,185,8,8,http://localhost:8080/api/patient,20,0,0
+1759517297696,86,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,91901,185,8,8,http://localhost:8080/api/patient,28,0,0
+1759517297651,159,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,8,8,http://localhost:8080/api/patient,159,0,0
+1759517297670,142,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,142,0,0
+1759517297763,51,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,8,8,http://localhost:8080/api/patient,51,0,0
+1759517297811,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,5,0,0
+1759517297783,40,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,8,8,http://localhost:8080/api/patient,40,0,0
+1759517297814,10,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,10,0,0
+1759517297769,63,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,8,8,http://localhost:8080/api/patient,63,0,0
+1759517297823,11,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,11,0,0
+1759517297835,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297834,13,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,13,0,0
+1759517297849,6,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,6,0,0
+1759517297632,229,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-1,text,true,,91901,185,8,8,http://localhost:8080/api/patient,58,0,0
+1759517297706,166,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,8,8,http://localhost:8080/api/patient,166,0,0
+1759517297873,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,7,0,0
+1759517297817,76,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,92395,185,8,8,http://localhost:8080/api/patient,15,0,0
+1759517297813,94,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,92395,185,8,8,http://localhost:8080/api/patient,17,0,0
+1759517297856,73,Crear Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,314,371,8,8,http://localhost:8080/api/patient,73,0,0
+1759517297824,113,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,92395,185,8,8,http://localhost:8080/api/patient,6,0,0
+1759517297839,109,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,8,8,http://localhost:8080/api/patient,109,0,0
+1759517297908,42,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,8,8,http://localhost:8080/api/patient,42,0,0
+1759517297937,20,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,8,8,http://localhost:8080/api/patient,20,0,0
+1759517297949,10,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,10,0,0
+1759517297929,31,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-2,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,31,0,0
+1759517297862,98,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-1,text,true,,311,380,8,8,http://localhost:8080/api/patient,98,0,0
+1759517297950,18,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,17,0,0
+1759517297958,14,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,14,0,0
+1759517297968,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,5,0,0
+1759517297972,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297885,114,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,93136,185,8,8,http://localhost:8080/api/patient,47,0,0
+1759517297960,60,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-2,text,true,,93136,185,8,8,http://localhost:8080/api/patient,15,0,0
+1759517297727,293,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,8,8,http://localhost:8080/api/patient,293,0,0
+1759517297960,65,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-1,text,false,,9121,210,9,9,http://localhost:8080/api/patient/28,65,0,0
+1759517298021,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,9,9,http://localhost:8080/api/patient/20,5,0,0
+1759517298001,29,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,9,9,http://localhost:8080/api/patient,29,0,0
+1759517298026,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-1,text,false,,6687,198,9,9,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517297960,85,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,93136,185,8,8,http://localhost:8080/api/patient,28,0,0
+1759517298030,17,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,17,0,0
+1759517297893,159,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,8,8,http://localhost:8080/api/patient,159,0,0
+1759517298048,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517298020,44,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-2,text,true,,312,380,8,8,http://localhost:8080/api/patient,44,0,0
+1759517298052,12,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,12,0,0
+1759517298065,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517298045,36,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,8,8,http://localhost:8080/api/patient,36,0,0
+1759517298081,12,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,12,0,0
+1759517298094,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298053,63,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,314,371,8,8,http://localhost:8080/api/patient,63,0,0
+1759517298026,99,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,93383,185,8,8,http://localhost:8080/api/patient,6,0,0
+1759517297974,211,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,8,8,http://localhost:8080/api/patient,211,0,0
+1759517298185,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,6,0,0
+1759517298028,177,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,8,8,http://localhost:8080/api/patient,177,0,11
+1759517298065,148,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-2,text,false,,9121,210,8,8,http://localhost:8080/api/patient/28,148,0,0
+1759517298206,10,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,8,8,http://localhost:8080/api/patient/20,10,0,0
+1759517298214,6,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-2,text,false,,6687,198,8,8,http://localhost:8080/api/patient/export/excel,6,0,0
+1759517298192,38,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,94616,185,7,7,http://localhost:8080/api/patient,6,0,0
+1759517297976,254,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,7,7,http://localhost:8080/api/patient,254,0,0
+1759517298230,10,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,10,0,0
+1759517298097,143,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,7,7,http://localhost:8080/api/patient,143,0,0
+1759517298117,126,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,126,0,0
+1759517298240,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,6,0,0
+1759517298069,180,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,7,7,http://localhost:8080/api/patient,180,0,0
+1759517298230,30,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,7,7,http://localhost:8080/api/patient,30,0,0
+1759517298250,14,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,14,0,0
+1759517298125,139,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,7,7,http://localhost:8080/api/patient,139,0,0
+1759517298260,15,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,15,0,0
+1759517298264,12,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,11,0,0
+1759517298216,61,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,94616,185,7,7,http://localhost:8080/api/patient,24,0,0
+1759517298275,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517298276,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517298244,38,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,94616,185,7,7,http://localhost:8080/api/patient,21,0,0
+1759517298247,37,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,94616,185,7,7,http://localhost:8080/api/patient,10,0,0
+1759517298240,66,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,94616,185,7,7,http://localhost:8080/api/patient,16,0,0
+1759517298278,33,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,7,7,http://localhost:8080/api/patient,33,0,0
+1759517298285,28,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,7,7,http://localhost:8080/api/patient,28,0,0
+1759517298264,52,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,94616,185,7,7,http://localhost:8080/api/patient,13,0,0
+1759517298282,35,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,7,7,http://localhost:8080/api/patient,35,0,0
+1759517298312,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,10,0,0
+1759517298314,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,9,0,0
+1759517298322,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517298317,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,9,0,0
+1759517298324,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517298327,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517298316,22,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,7,7,http://localhost:8080/api/patient,22,0,0
+1759517298280,61,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,7,7,http://localhost:8080/api/patient,61,0,0
+1759517298281,63,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,7,7,http://localhost:8080/api/patient,63,0,0
+1759517298342,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,6,0,0
+1759517298344,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,6,0,0
+1759517298307,49,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,7,7,http://localhost:8080/api/patient,49,0,0
+1759517298327,37,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,7,7,http://localhost:8080/api/patient,36,0,0
+1759517298357,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,10,0,0
+1759517298339,31,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,31,0,0
+1759517298368,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298364,8,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,8,0,0
+1759517298371,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298349,39,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,95602,185,7,7,http://localhost:8080/api/patient,7,0,0
+1759517298350,44,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,95602,185,7,7,http://localhost:8080/api/patient,6,0,0
+1759517298373,30,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,95602,185,7,7,http://localhost:8080/api/patient,4,0,0
+1759517298394,19,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,7,7,http://localhost:8080/api/patient,19,0,0
+1759517298403,17,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,7,7,http://localhost:8080/api/patient,17,0,0
+1759517298374,49,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,7,7,http://localhost:8080/api/patient,49,0,0
+1759517298414,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,9,0,0
+1759517298423,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298421,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,7,0,0
+1759517298423,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,7,0,0
+1759517298428,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298389,46,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,7,7,http://localhost:8080/api/patient,46,0,0
+1759517298435,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,9,0,0
+1759517298328,116,Crear Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,314,371,7,7,http://localhost:8080/api/patient,116,0,0
+1759517298444,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298444,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-5,text,true,,311,188,7,7,http://localhost:8080/api/patient/20,6,0,0
+1759517298430,42,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,96341,185,7,7,http://localhost:8080/api/patient,10,0,0
+1759517298450,27,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-5,text,true,,96588,185,7,7,http://localhost:8080/api/patient,6,0,0
+1759517298473,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,7,7,http://localhost:8080/api/patient,15,0,0
+1759517298477,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-5,text,true,,312,380,7,7,http://localhost:8080/api/patient,13,0,0
+1759517298489,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,6,0,0
+1759517298490,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-5,text,false,,9121,210,7,7,http://localhost:8080/api/patient/28,7,0,0
+1759517298495,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298498,5,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-5,text,false,,6687,198,7,7,http://localhost:8080/api/patient/export/excel,5,0,0
+1759517298372,136,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,371,6,6,http://localhost:8080/api/patient,136,0,0
+1759517298427,117,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,6,6,http://localhost:8080/api/patient,117,0,0
+1759517298544,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,310,188,6,6,http://localhost:8080/api/patient/20,5,0,0
+1759517298332,228,Crear Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,371,6,6,http://localhost:8080/api/patient,228,0,0
+1759517298550,41,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,97081,185,6,6,http://localhost:8080/api/patient,5,0,0
+1759517298591,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,6,6,http://localhost:8080/api/patient,15,0,0
+1759517298606,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,7,0,0
+1759517298613,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517298499,123,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,6,6,http://localhost:8080/api/patient,123,0,0
+1759517298508,117,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,117,0,0
+1759517298621,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,5,0,0
+1759517298432,222,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,6,6,http://localhost:8080/api/patient,222,0,0
+1759517298560,96,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-4,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,96,0,0
+1759517298653,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,6,0,0
+1759517298627,36,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,97576,185,6,6,http://localhost:8080/api/patient,7,0,0
+1759517298448,224,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,6,6,http://localhost:8080/api/patient,224,0,0
+1759517298672,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,6,6,http://localhost:8080/api/patient/20,5,0,0
+1759517298663,18,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,6,6,http://localhost:8080/api/patient,18,0,0
+1759517298659,33,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,97576,185,6,6,http://localhost:8080/api/patient,6,0,0
+1759517298681,11,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,11,0,0
+1759517298655,39,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-4,text,true,,97576,185,6,6,http://localhost:8080/api/patient,18,0,0
+1759517298692,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298678,27,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,97576,185,6,6,http://localhost:8080/api/patient,4,0,0
+1759517298692,18,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,6,6,http://localhost:8080/api/patient,18,0,0
+1759517298694,19,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-4,text,true,,312,380,6,6,http://localhost:8080/api/patient,19,0,0
+1759517298710,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,10,0,0
+1759517298720,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298713,11,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-4,text,false,,9121,210,6,6,http://localhost:8080/api/patient/28,11,0,0
+1759517298725,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-4,text,false,,6687,198,6,6,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298696,34,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,5,5,http://localhost:8080/api/patient,34,0,0
+1759517298617,114,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,5,5,http://localhost:8080/api/patient,114,0,0
+1759517298731,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,6,0,0
+1759517298731,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,6,0,0
+1759517298706,34,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,5,5,http://localhost:8080/api/patient,34,0,0
+1759517298624,124,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,97823,185,5,5,http://localhost:8080/api/patient,110,0,0
+1759517298741,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,8,0,0
+1759517298750,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298738,18,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,98070,185,5,5,http://localhost:8080/api/patient,4,0,0
+1759517298749,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,5,5,http://localhost:8080/api/patient,12,0,0
+1759517298724,38,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,371,5,5,http://localhost:8080/api/patient,38,0,0
+1759517298738,25,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,98070,185,5,5,http://localhost:8080/api/patient,5,0,0
+1759517298761,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,9,0,0
+1759517298756,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,5,5,http://localhost:8080/api/patient,15,0,0
+1759517298770,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298764,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,5,5,http://localhost:8080/api/patient,12,0,0
+1759517298771,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,7,0,0
+1759517298778,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298754,30,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,5,5,http://localhost:8080/api/patient,30,0,0
+1759517298777,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,7,0,0
+1759517298762,24,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,24,0,0
+1759517298784,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517298784,7,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,7,0,0
+1759517298773,31,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,5,5,http://localhost:8080/api/patient,31,0,0
+1759517298804,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,5,0,0
+1759517298786,25,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,98809,185,5,5,http://localhost:8080/api/patient,9,0,0
+1759517298792,28,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,98809,185,5,5,http://localhost:8080/api/patient,14,0,0
+1759517298810,14,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,98809,185,5,5,http://localhost:8080/api/patient,4,0,0
+1759517298811,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,5,5,http://localhost:8080/api/patient,14,0,0
+1759517298821,10,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,5,5,http://localhost:8080/api/patient,10,0,0
+1759517298825,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,6,0,0
+1759517298831,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298825,9,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,5,5,http://localhost:8080/api/patient,9,0,0
+1759517298831,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,6,0,0
+1759517298838,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298834,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,7,0,0
+1759517298841,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298834,24,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,5,5,http://localhost:8080/api/patient,24,0,0
+1759517298841,36,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,5,5,http://localhost:8080/api/patient,36,0,0
+1759517298878,3,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,3,0,0
+1759517298882,14,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,99548,185,5,5,http://localhost:8080/api/patient,8,0,0
+1759517298781,117,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,314,371,5,5,http://localhost:8080/api/patient,117,0,0
+1759517298898,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,5,0,0
+1759517298896,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,5,5,http://localhost:8080/api/patient,11,0,0
+1759517298908,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,6,0,0
+1759517298914,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298844,106,Crear Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,314,371,5,5,http://localhost:8080/api/patient,106,0,0
+1759517298858,95,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,95,0,0
+1759517298917,38,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,5,5,http://localhost:8080/api/patient,38,0,0
+1759517298951,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-6,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,5,0,0
+1759517298955,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,5,5,http://localhost:8080/api/patient/20,5,0,0
+1759517298956,15,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-6,text,true,,100042,185,5,5,http://localhost:8080/api/patient,4,0,0
+1759517298954,17,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,100042,185,5,5,http://localhost:8080/api/patient,3,0,0
+1759517298960,21,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,100042,185,5,5,http://localhost:8080/api/patient,9,0,0
+1759517298972,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,5,5,http://localhost:8080/api/patient,16,0,0
+1759517298971,18,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-6,text,true,,312,380,5,5,http://localhost:8080/api/patient,18,0,0
+1759517298988,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,8,0,0
+1759517298788,212,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,5,5,http://localhost:8080/api/patient,211,0,0
+1759517298990,10,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-6,text,false,,9121,210,5,5,http://localhost:8080/api/patient/28,10,0,0
+1759517298996,6,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,6,0,0
+1759517298981,21,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,5,5,http://localhost:8080/api/patient,21,0,0
+1759517299000,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-6,text,false,,6687,198,5,5,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517299000,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,6,0,0
+1759517299002,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9121,210,4,4,http://localhost:8080/api/patient/28,8,0,0
+1759517299011,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6687,198,4,4,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517298903,115,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,100042,185,4,4,http://localhost:8080/api/patient,101,0,0
+1759517299007,24,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,100289,185,4,4,http://localhost:8080/api/patient,7,0,0
+1759517299014,30,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,4,4,http://localhost:8080/api/patient,30,0,0
+1759517299031,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,4,4,http://localhost:8080/api/patient,16,0,0
+1759517299045,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,310,188,4,4,http://localhost:8080/api/patient/20,6,0,0
+1759517299048,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9121,210,4,4,http://localhost:8080/api/patient/28,9,0,0
+1759517299057,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6687,198,4,4,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517299051,18,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,100535,185,4,4,http://localhost:8080/api/patient,6,0,0
+1759517299069,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,4,4,http://localhost:8080/api/patient,14,0,0
+1759517299084,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9121,210,4,4,http://localhost:8080/api/patient/28,8,0,0
+1759517299092,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6687,198,4,4,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517299061,35,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,4,4,http://localhost:8080/api/patient,35,0,0
+1759517299096,6,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,6,0,0
+1759517299002,118,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,4,4,http://localhost:8080/api/patient,118,0,0
+1759517299120,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,5,0,0
+1759517299018,111,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,4,4,http://localhost:8080/api/patient,111,0,0
+1759517299130,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9121,210,4,4,http://localhost:8080/api/patient/28,9,0,0
+1759517299139,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6687,198,4,4,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517299125,20,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,101030,185,4,4,http://localhost:8080/api/patient,7,0,0
+1759517299146,16,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,4,4,http://localhost:8080/api/patient,16,0,0
+1759517299162,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9121,210,4,4,http://localhost:8080/api/patient/28,9,0,0
+1759517299142,30,Crear Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,371,4,4,http://localhost:8080/api/patient,30,0,0
+1759517299171,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6687,198,4,4,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517299172,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-7,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,5,0,0
+1759517299177,18,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-7,text,true,,101524,185,4,4,http://localhost:8080/api/patient,5,0,0
+1759517299174,27,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,4,4,http://localhost:8080/api/patient,26,0,0
+1759517299201,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,4,0,0
+1759517299095,111,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,4,4,http://localhost:8080/api/patient,111,0,0
+1759517299196,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-7,text,true,,312,380,4,4,http://localhost:8080/api/patient,12,0,0
+1759517299206,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,4,4,http://localhost:8080/api/patient/20,4,0,0
+1759517299209,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-7,text,false,,9121,210,4,4,http://localhost:8080/api/patient/28,8,0,0
+1759517299218,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-7,text,false,,6687,198,4,4,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517299205,19,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,101524,185,3,3,http://localhost:8080/api/patient,10,0,0
+1759517299102,124,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,101524,185,3,3,http://localhost:8080/api/patient,114,0,0
+1759517299211,19,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,101524,185,3,3,http://localhost:8080/api/patient,9,0,0
+1759517299226,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
+1759517299225,14,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,3,3,http://localhost:8080/api/patient,14,0,0
+1759517299238,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9121,210,3,3,http://localhost:8080/api/patient/28,6,0,0
+1759517299230,15,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,3,3,http://localhost:8080/api/patient,15,0,0
+1759517299239,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9121,210,3,3,http://localhost:8080/api/patient/28,6,0,0
+1759517299244,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6687,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
+1759517299246,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6687,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
+1759517299245,8,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9121,210,3,3,http://localhost:8080/api/patient/28,8,0,0
+1759517299253,3,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6687,198,3,3,http://localhost:8080/api/patient/export/excel,3,0,0
+1759517299246,23,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,3,3,http://localhost:8080/api/patient,23,0,0
+1759517299248,25,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,3,3,http://localhost:8080/api/patient,25,0,0
+1759517299269,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
+1759517299273,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
+1759517299273,16,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,102263,185,3,3,http://localhost:8080/api/patient,4,0,0
+1759517299277,14,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,102263,185,3,3,http://localhost:8080/api/patient,4,0,0
+1759517299256,39,Crear Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,314,371,3,3,http://localhost:8080/api/patient,39,0,0
+1759517299295,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-9,text,true,,311,188,3,3,http://localhost:8080/api/patient/20,4,0,0
+1759517299290,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
+1759517299292,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,3,3,http://localhost:8080/api/patient,11,0,0
+1759517299301,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9121,210,3,3,http://localhost:8080/api/patient/28,7,0,0
+1759517299309,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6687,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
+1759517299304,9,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9121,210,3,3,http://localhost:8080/api/patient/28,9,0,0
+1759517299299,14,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-9,text,true,,102262,185,3,3,http://localhost:8080/api/patient,6,0,0
+1759517299313,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6687,198,3,3,http://localhost:8080/api/patient/export/excel,2,0,0
+1759517299313,12,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-9,text,true,,312,380,3,3,http://localhost:8080/api/patient,12,0,0
+1759517299326,7,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-9,text,false,,9121,210,3,3,http://localhost:8080/api/patient/28,7,0,0
+1759517299311,25,Crear Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,314,371,3,3,http://localhost:8080/api/patient,25,0,0
+1759517299333,4,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-9,text,false,,6687,198,3,3,http://localhost:8080/api/patient/export/excel,4,0,0
+1759517299337,4,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-8,text,true,,310,188,2,2,http://localhost:8080/api/patient/20,4,0,0
+1759517299341,16,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-8,text,true,,102756,185,2,2,http://localhost:8080/api/patient,5,0,0
+1759517299357,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-8,text,true,,312,380,2,2,http://localhost:8080/api/patient,13,0,0
+1759517299370,6,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-8,text,false,,9121,210,2,2,http://localhost:8080/api/patient/28,6,0,0
+1759517299376,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-8,text,false,,6687,198,2,2,http://localhost:8080/api/patient/export/excel,2,0,0
+1759517299316,123,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,371,1,1,http://localhost:8080/api/patient,123,0,0
+1759517299439,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,1,1,http://localhost:8080/api/patient/20,5,0,0
+1759517299444,13,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,102757,185,1,1,http://localhost:8080/api/patient,5,0,0
+1759517299457,13,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,1,1,http://localhost:8080/api/patient,13,0,0
+1759517299470,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9121,210,1,1,http://localhost:8080/api/patient/28,5,0,0
+1759517299476,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6687,198,1,1,http://localhost:8080/api/patient/export/excel,2,0,0
+1759517299478,109,Crear Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,314,371,1,1,http://localhost:8080/api/patient,109,0,0
+1759517299587,5,Consultar Paciente por ID,200,OK,Usuarios Concurrentes 1-10,text,true,,311,188,1,1,http://localhost:8080/api/patient/20,5,0,0
+1759517299592,11,Consultar Todos los Pacientes,200,OK,Usuarios Concurrentes 1-10,text,true,,103004,185,1,1,http://localhost:8080/api/patient,4,0,0
+1759517299603,11,Actualizar Paciente,200,OK,Usuarios Concurrentes 1-10,text,true,,312,380,1,1,http://localhost:8080/api/patient,11,0,0
+1759517299615,5,Eliminar Paciente por ID,404,Not Found,Usuarios Concurrentes 1-10,text,false,,9121,210,1,1,http://localhost:8080/api/patient/28,5,0,0
+1759517299620,2,Exportar Pacientes a Excel,406,Not Acceptable,Usuarios Concurrentes 1-10,text,false,,6687,198,1,1,http://localhost:8080/api/patient/export/excel,2,0,0

@@ -1,0 +1,400 @@
+2025-10-03 13:48:13 INFO  [reactor-http-nio-3] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:14 INFO  [reactor-http-nio-4] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:14 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 322
+2025-10-03 13:48:14 INFO  [reactor-http-nio-5] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:14 INFO  [reactor-tcp-nio-2] s.p.web.patient.PatientCreateService - Patiento creado con id: 323
+2025-10-03 13:48:14 INFO  [reactor-tcp-nio-2] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@1a05564
+2025-10-03 13:48:14 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@12e6758a
+2025-10-03 13:48:14 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 324
+2025-10-03 13:48:14 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@1bd863f
+2025-10-03 13:48:15 INFO  [reactor-http-nio-6] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 325
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@3d235a81
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 INFO  [reactor-http-nio-3] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-http-nio-6] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-http-nio-4] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-http-nio-5] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 327
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-5] s.p.web.patient.PatientCreateService - Patiento creado con id: 328
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 329
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 326
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@224f8d62
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-5] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@5802e6d4
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@44e5f10d
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@51d94ca3
+2025-10-03 13:48:15 INFO  [reactor-http-nio-7] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-5] s.p.web.patient.PatientCreateService - Patiento creado con id: 330
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-5] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@5426ca86
+2025-10-03 13:48:15 INFO  [reactor-http-nio-3] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-5] s.p.web.patient.PatientCreateService - Patiento creado con id: 331
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-5] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@6da458c2
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 INFO  [reactor-http-nio-5] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-http-nio-4] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 332
+2025-10-03 13:48:15 INFO  [reactor-http-nio-6] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-7] s.p.web.patient.PatientCreateService - Patiento creado con id: 333
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 334
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@61e5f171
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 INFO  [reactor-http-nio-3] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-7] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@33425466
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 335
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@7e4c14bd
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 INFO  [reactor-http-nio-5] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-5] s.p.web.patient.PatientCreateService - Patiento creado con id: 336
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@145ef9e3
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-5] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@5eacd57a
+2025-10-03 13:48:15 INFO  [reactor-http-nio-7] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 337
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 INFO  [reactor-http-nio-6] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-http-nio-5] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-http-nio-4] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@7f9516a2
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 338
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 339
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@738c55bb
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@58a6b9bc
+2025-10-03 13:48:15 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 340
+2025-10-03 13:48:15 INFO  [reactor-http-nio-3] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 341
+2025-10-03 13:48:15 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@63dbfb09
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@45244d27
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-http-nio-5] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-5] s.p.web.patient.PatientCreateService - Patiento creado con id: 342
+2025-10-03 13:48:16 INFO  [reactor-http-nio-8] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 343
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-http-nio-7] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@640a6310
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-7] s.p.web.patient.PatientCreateService - Patiento creado con id: 344
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-5] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@4acc4ae0
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-7] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@22ca7507
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-http-nio-6] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 345
+2025-10-03 13:48:16 INFO  [reactor-http-nio-3] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-http-nio-4] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-5] s.p.web.patient.PatientCreateService - Patiento creado con id: 346
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 347
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@1984892e
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-5] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@2bfc3fa5
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@78ff77e8
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-http-nio-8] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-7] s.p.web.patient.PatientCreateService - Patiento creado con id: 348
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-7] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@3032c5b9
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-http-nio-5] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-http-nio-3] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-http-nio-4] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-http-nio-7] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-7] s.p.web.patient.PatientCreateService - Patiento creado con id: 349
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 350
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 351
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 352
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-7] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@730f0e39
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@76eeb345
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@5e941ee7
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@44ef757f
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-8] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-http-nio-8] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-http-nio-7] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 353
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-http-nio-3] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-http-nio-9] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-http-nio-4] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 354
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-7] s.p.web.patient.PatientCreateService - Patiento creado con id: 355
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 356
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 357
+2025-10-03 13:48:16 INFO  [reactor-http-nio-5] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@66cf0039
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@7e880c82
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-7] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@d975a4b
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@78bfe097
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 358
+2025-10-03 13:48:16 INFO  [reactor-http-nio-6] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@43d4cbc1
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 359
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-http-nio-9] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 360
+2025-10-03 13:48:16 INFO  [reactor-http-nio-3] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@62bce28
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@77a3c194
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@11bfcb95
+2025-10-03 13:48:16 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 361
+2025-10-03 13:48:17 INFO  [reactor-http-nio-10] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-http-nio-8] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-http-nio-7] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-5] s.p.web.patient.PatientCreateService - Patiento creado con id: 362
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-7] s.p.web.patient.PatientCreateService - Patiento creado con id: 363
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 364
+2025-10-03 13:48:17 INFO  [reactor-http-nio-5] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@64084228
+2025-10-03 13:48:17 INFO  [reactor-http-nio-4] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 365
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-5] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@2b1cac75
+2025-10-03 13:48:17 INFO  [reactor-http-nio-9] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 366
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-7] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@6046c0a6
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@2afe8cd7
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@b7a0b0d
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-7] s.p.web.patient.PatientCreateService - Patiento creado con id: 367
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@5d807011
+2025-10-03 13:48:17 INFO  [reactor-http-nio-6] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-7] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@71e5fa74
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 368
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@3bf716cb
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-http-nio-5] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 369
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-http-nio-8] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-http-nio-3] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-http-nio-9] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-7] s.p.web.patient.PatientCreateService - Patiento creado con id: 370
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 371
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 372
+2025-10-03 13:48:17 INFO  [reactor-http-nio-7] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@60a43451
+2025-10-03 13:48:17 INFO  [reactor-http-nio-11] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 373
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-7] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@315f8ed3
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@53910be0
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@5caa7929
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@61bd3e12
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 374
+2025-10-03 13:48:17 INFO  [reactor-http-nio-4] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-7] s.p.web.patient.PatientCreateService - Patiento creado con id: 375
+2025-10-03 13:48:17 INFO  [reactor-http-nio-10] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-5] s.p.web.patient.PatientCreateService - Patiento creado con id: 376
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@773c6299
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-7] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@6ed6333d
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-http-nio-6] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 377
+2025-10-03 13:48:17 INFO  [reactor-http-nio-9] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-5] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@1d3e9f3b
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-http-nio-8] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 378
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@51b2984f
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@7cc747ce
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-http-nio-7] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-http-nio-4] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-5] s.p.web.patient.PatientCreateService - Patiento creado con id: 379
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 380
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 381
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@113845e
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-5] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@6e949e7
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-5] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@30eaa52a
+2025-10-03 13:48:17 INFO  [reactor-http-nio-11] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 INFO  [reactor-http-nio-8] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:17 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:17 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 382
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-8] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-12] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-http-nio-6] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 384
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 383
+2025-10-03 13:48:18 INFO  [reactor-http-nio-10] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-8] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-7] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@520c169f
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 385
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 386
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@291ed835
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@716e793a
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@50842f15
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 387
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@b67d8df
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@6c78a9b2
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-9] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-http-nio-11] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 388
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 389
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-12] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-http-nio-7] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@7204bbe5
+2025-10-03 13:48:18 INFO  [reactor-http-nio-6] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 391
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 390
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@12689665
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@61a421e2
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-7] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-8] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-http-nio-10] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-7] s.p.web.patient.PatientCreateService - Patiento creado con id: 393
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 392
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@5dbf17f7
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@31d6cbbe
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-9] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-http-nio-12] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 394
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 395
+2025-10-03 13:48:18 INFO  [reactor-http-nio-11] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-7] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@2aa124e5
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@4474a8e7
+2025-10-03 13:48:18 INFO  [reactor-http-nio-10] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 396
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@10ac02df
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 397
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 398
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@41288a4e
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@1c65691e
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-9] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 399
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@23fd2e19
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@52117
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-10] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 400
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-9] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-12] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@42f1e75a
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-9] s.p.web.patient.PatientCreateService - Patiento creado con id: 401
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-8] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-11] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-9] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@2bc04eea
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 402
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-8] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-8] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@3878aa21
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 403
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-8] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-9] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 404
+2025-10-03 13:48:18 INFO  [reactor-http-nio-10] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@3442c576
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-12] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 405
+2025-10-03 13:48:18 INFO  [reactor-http-nio-11] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-http-nio-8] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@404fa272
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 406
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@7bd39dec
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 407
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@3b5aff53
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 408
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@db2f176
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 INFO  [reactor-http-nio-11] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.web.patient.PatientCreateService - Patiento creado con id: 409
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-10] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@7de3ed5
+2025-10-03 13:48:18 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@46ac946f
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-10] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:18 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-http-nio-12] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 410
+2025-10-03 13:48:19 INFO  [reactor-http-nio-11] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 411
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@2b728885
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-http-nio-10] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 412
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@1b3f5614
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-8] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@4d40223d
+2025-10-03 13:48:19 INFO  [reactor-http-nio-11] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 413
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-http-nio-9] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 414
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@363f9e49
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-8] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@1bf7f758
+2025-10-03 13:48:19 INFO  [reactor-http-nio-12] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-6] s.p.web.patient.PatientCreateService - Patiento creado con id: 415
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-6] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@38c8be77
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-6] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-8] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-http-nio-10] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-http-nio-12] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 416
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 417
+2025-10-03 13:48:19 INFO  [reactor-http-nio-11] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@4b5f9f73
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@5764f12e
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 418
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@74c3f567
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-http-nio-10] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 INFO  [reactor-http-nio-12] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 419
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@3244175d
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-8] s.p.web.patient.PatientCreateService - Patiento creado con id: 420
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-8] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@46b8295
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!
+2025-10-03 13:48:19 INFO  [reactor-http-nio-12] s.p.web.patient.PatientCreateService - Creando Paciente
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-1] s.p.web.patient.PatientCreateService - Patiento creado con id: 421
+2025-10-03 13:48:19 INFO  [reactor-tcp-nio-1] s.p.reactive.PatientEventPublisher - Event published successfully: sura.pruebalegoback.domain.patient.event.PatientCreatedEvent@49988fe7
+2025-10-03 13:48:19 ERROR [reactor-tcp-nio-1] s.pruebalegoback.web.ErrorHandler - Indicated Patient not found!

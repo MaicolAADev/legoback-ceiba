@@ -25,7 +25,7 @@ public class WeatherGatewayImpl implements WeatherGateway {
                 .uri(weatherUrl)
                 .retrieve()
                 .bodyToMono(WeatherResponse.class)
-                .timeout(java.time.Duration.ofSeconds(5))
+                .timeout(java.time.Duration.ofSeconds(10))
                 .retry(2)
                 .onErrorResume(e -> Mono.error(new RuntimeException("Error al consumir el API de clima", e)));
     }
